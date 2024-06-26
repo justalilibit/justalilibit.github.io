@@ -1,8 +1,6 @@
-# set baseurl as "/<repo-name>". ex) baseurl: /myresume
-baseurl: myresume/
-
-profile_img: assets/img/profile.webp
-icon_img: assets/img/icon.webp
+title: Lilian Marie Boll
+profile_img: /assets/img/profile.webp
+icon_img: /assets/img/icon.webp
 
 name: "Lilian Marie Boll"
 job: "PhD candidate in Bioinformatics"
@@ -15,4 +13,16 @@ github_username: justalilibit
 twitter_username: @_justalilibit
 instagram_username: @justalilibit
 webpage_url: justalilibit.github.io
+facebook_username: -
+youtube_username: -
+blog_url: justalilibit.github.io
 
+exclude:
+  - _posts/
+  - resources/
+  - vendor/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
