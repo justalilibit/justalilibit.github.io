@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: Lilian Marie Boll's homepage
-description: A personal webpage about myself and my work!
+# set baseurl as "/<repo-name>". ex) baseurl: /myresume
+baseurl: myresume/
