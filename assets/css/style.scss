@@ -1,26 +1,48 @@
 ---
 ---
 
+// :root {
+//     --color-background: #fffdfb;
+//     --theme1-light: #F6D8CB;
+//     --theme1-medium: #D0A694;
+//     --theme1-dim: #B07D67;
+//     --theme1-dark: #8A5843;
+//     --theme2-light: #B1B1C2;
+//     --theme2-medium: #8888A4;
+//     --theme2-dim: #66658C;
+//     --theme2-dark: #484776;
+//     --theme3-light: #FFF8E4;
+//     --theme3-medium: #EBDFBB;
+//     --theme3-dim: #C8B887;
+//     --theme3-dark: #A8955A;
+//     --theme4-light: #AABEB6;
+//     --theme4-medium: #7FA093;
+//     --theme4-dim: #5C8876;
+//     --theme4-dark: #3D725D;
+//     --font-dark: #202424;
+// }
+
 :root {
-    --color-background: #fffdfb;
-    --theme1-light: #F6D8CB;
-    --theme1-medium: #D0A694;
-    --theme1-dim: #B07D67;
-    --theme1-dark: #8A5843;
-    --theme2-light: #B1B1C2;
-    --theme2-medium: #8888A4;
-    --theme2-dim: #66658C;
-    --theme2-dark: #484776;
-    --theme3-light: #FFF8E4;
-    --theme3-medium: #EBDFBB;
-    --theme3-dim: #C8B887;
-    --theme3-dark: #A8955A;
-    --theme4-light: #AABEB6;
-    --theme4-medium: #7FA093;
-    --theme4-dim: #5C8876;
-    --theme4-dark: #3D725D;
+    --color-background: #FFF9EC; /* beige/sand */
+    --theme1-light: #EFE3DE;     /* beige/sand */
+    --theme1-medium: #D0A694;    /* less saturated */
+    --theme1-dim: #B07D67;       /* less saturated */
+    --theme1-dark: #8A5843;      /* less saturated */
+    --theme2-light: #A2C0F5;     /* blue */
+    --theme2-medium: #6C8BBD;    /* blue */
+    --theme2-dim: #66658C;       /* blue */
+    --theme2-dark: #484776;      /* blue */
+    --theme3-light: #FFF8E4;     /* beige/sand */
+    --theme3-medium: #EFE3DE;    /* beige/sand */
+    --theme3-dim: #D0A694;       /* less saturated */
+    --theme3-dark: #8A5843;      /* less saturated */
+    --theme4-light: #A2C0F5;     /* blue */
+    --theme4-medium: #6C8BBD;    /* blue */
+    --theme4-dim: #5C8876;       /* blue */
+    --theme4-dark: #3D725D;      /* blue */
     --font-dark: #202424;
 }
+
 
 html, body {
     margin:0;
