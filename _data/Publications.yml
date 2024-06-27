@@ -1,11 +1,16 @@
 subject: Publications
-listing-order: 4
+listing-order: 3
 icon: "/assets/img/flask.svg"
 contents:
   - title: Journal
     ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
-  - title: Conference
+      - "[1] **Boll, L.M.**, Vázquez Montes de Oca, S., Camarena, M.E., Castelo, R., Bellmunt, J., Perera-Bel, J., Albà, M.M., “[Predicting immunotherapy response in advanced bladder cancer: a meta-analysis of six independent cohorts](https://www.biorxiv.org/content/10.1101/2024.04.18.589711v1)“. *bioRxiv (Preprint)*. 2024. doi:10.1101/2024.04.18.589711."
+      - "[2] **Boll, L.M.**, Perera-Bel, J.*, Rovira, A., Juanpere Rodero, N., Vázquez, S.,  Hernández-Llodrà, S., Lloreta, J., Albà, M.M., Bellmunt J, “[The impact of mutational clonality in predicting the response to immune checkpoint inhibitors in advanced urothelial cancer.](https://www.nature.com/articles/s41598-023-42495-2),” *Scientic Reports* (Impact factor: 4.6). 2023; doi: 10.1038/s41598-023-42495-2."
+      - "[3] **Boll, L.M.**, Khamirchi, R., Alonso, L., Llurba, E., Óscar, J. P., & Dadvand, P., “[Prenatal Greenspace Exposure and Cord Blood Cortisol Levels](https://pubmed.ncbi.nlm.nih.gov/32822928/),” *Environment International* (Impact factor: 7.94), 2020; doi: 10.1016/j.envint.2020.106047."
+      - "[4] Sakhvidi, M. J.Z, de Keijzer, C., Bauwelinck, M., **Boll, L.M.**, Knobel, P., Jacquemin, B., Dadvand, P. , “[Greenspace exposure and children behavior: A systematic review](https://pubmed.ncbi.nlm.nih.gov/35134416/),” *Sci Total Environ* (Impact factor: 7.94), 2022; doi: 10.1016/j.scitotenv.2022.153608."
+  - title: Poster Presentations
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - "[5] EMBL Cancer Genomics Conference 2023, Heidelberg"
+      - "[6] European Conference Computational Biology 2022, Sitges"
+      - "[7] EMBL Cancer Genomics Course 2022, Cambridge"
+      

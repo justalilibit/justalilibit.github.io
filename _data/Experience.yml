@@ -2,21 +2,18 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Evolutionary Genomics, IMIM, Barcelona
+    role: Research Assistant
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - For my master thesis in Bioinformatic and in preparation for my PhD, I joined Mar Albà's group to learn about genomic research on biomarkers in immunotherapy.
+    date: Sep. 2021 - Jun. 2022
+  - title: Urban Planning and Environmental Health, ISGlobal, Barcelona
+    role: Research Assistant
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - As part of my master's in Public Health, I worked in the department of Environmental and Children Health. Inter alia, I improved my skills in scientific writing and statistical data analysis. 
+    date: Sep. 2019 - Feb. 2020
+  - title: Cell Biology, Philipps Universität, Marburg
+    role: Research Assistant
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - During an internship in Prof. Ralf Jacob's group on cytopathology, I learned to structure my own projects from the first idea to their implementation.
+    date: Jan. 2018 - Jul. 2018

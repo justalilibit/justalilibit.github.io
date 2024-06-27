@@ -2,20 +2,20 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Universidad Pompeu Fabra, Barcelona, PhD in Bioinformatics
+  - title: PhD in Bioinformatics, Universidad Pompeu Fabra, Barcelona
     description:
       - Design of a method to build a probabilistic generative model
       - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Oct. 2022 - May. 2025
-  - title: Universidad Pompeu Fabra, Barcelona, MSc in Bioinformatics
+    date: since Oct. 2022
+  - title: MSc in Bioinformatics, Universidad Pompeu Fabra, Barcelona
     description:
       - Development of deep learning algorithms for automatically tracking the facial expressions
       - Optimizing parameter efficient fine tuning for fairness in medical image analysis
     grade: "**GPA**: `honored`"
-    date: Oct. 2020 - Jul. 2022
-  - title: University of Southern Denmark, Esbjerg, MSc in Global Health
+    date: Sep. 2020 - Jul. 2022
+  - title: MSc in Global Health, University of Southern Denmark, Esbjerg
     grade: "**GPA**: `honored`"
-    date: Oct. 2018 - Jul. 2020
-  - title: Philipps Universität, Marburg, BSc in Biomedical Science
+    date: Sep. 2018 - Jul. 2020
+  - title: BSc in Biomedical Science, Philipps Universität, Marburg
     grade: "**GPA**: `honored`"
-    date: Oct. 2015 - Jul. 2018
+    date: Sep. 2015 - Jul. 2018

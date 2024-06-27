@@ -1,21 +1,20 @@
-subject: Projects
-listing-order: 3
+subject: Science Divulgation
+listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Finals Rin4Min 2024, UPF Barcelona"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Research in 4 minutes UPF finals
+    image: /assets/img/OPEN_PRBB2024.png
+  - title: "International Day of Women and Girls in Science 2024, Mataró"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
     image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+  - title: "OpenPRBB 2023, Barcelona" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
+    image: /assets/img/OPEN_PRBB2024.png
+  - title: "European Researcher’s Night 2021, Barcelona" 
+    description: 
+    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+  - title: "International Day of Women and Girls in Science 2022, Orlot " 
+    description: 
     image: "![](https://i.ibb.co/R9150c4/12421323.webp)"

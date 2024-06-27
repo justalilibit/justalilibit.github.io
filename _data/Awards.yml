@@ -2,12 +2,18 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
+  - title: INPhINIT Doctoral Fellow
+    description: Fundación "laCaixa"
+    date: Nov. 2022
+  - title: Master Thesis Award
+    description: 2nd place in the [VHIO Computational Oncology Master Thesis Award](https://vhio.net/vhio-computational-oncology-master-thesis-award/)
     date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: Honorific mention for MSc Thesis 
+    description: best possible grade for my Master Thesis in Bioinformatisc, Universidad Pompeu Fabra
+    date: Jul. 2022
+  - title: Honorific mention for MSc Thesis
+    description: best possible grade for my Master Thesis in Public Health, University of Southern Denmark
+    date: Jul. 2020
+  - title: First price in [social entrepreneurship eHealth challenge](https://www.youngleadersforhealth.org)
+    description: my team won the competition with our project on air pollution and NCDs organised by Young Leaders for Health.
+    date: Jun. 2019
