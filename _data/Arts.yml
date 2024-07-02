@@ -4,13 +4,13 @@ icon: "/assets/img/briefcase.svg"
 contents:
   - title: "Design Commitee for Student Council Symposium 2024 (SCS)"
     description: 
-      - Designing the poster and social media posst as well as merch for the 20th SCS meeting 2024 in montreal, Canada"
-    image: '<img src="https://justalilibit.github.io/assets/img/SCS_poster.jpg" alt="SCS2024" style="width:500px;height:auto;">'
+      - Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in montreal, Canada"
+    image: '<img src="https://justalilibit.github.io/assets/img/SCS_poster.jpg" alt="SCS2024" style="width:300px;height:auto;">'
   - title: "Logo for the PRBB Sustainability Group"
     description: 
       - Designed the new logo for the PRBB Sustainability Group
-    image: '<img src="https://justalilibit.github.io/assets/img/Sus_logo.jpeg" alt="PRBB Sustainability Group" style="width:500px;height:auto;">'
+    image: '<img src="https://justalilibit.github.io/assets/img/Sus_logo.jpeg" alt="PRBB Sustainability Group" style="width:300px;height:auto;">'
   - title: "Title Page for a PhD Thesis"
     description: 
       - A comic for a colleague's PhD thesis
-    image: '<img src="https://justalilibit.github.io/assets/img/Jesus_Thesis.jpeg" alt="HER2" style="width:500px;height:auto;">'
+    image: '<img src="https://justalilibit.github.io/assets/img/Jesus_Thesis.png" alt="HER2" style="width:300px;height:auto;">'
