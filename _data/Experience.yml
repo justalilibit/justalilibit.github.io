@@ -3,10 +3,15 @@ listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
   - title: Evolutionary Genomics, IMIM, Barcelona
+    role: PhD Student
+    description:
+      - "Working title: >> Identification of novel biomarkers for immunotherapy response <<"
+    date: since Nov. 2022 
+  - title: Evolutionary Genomics, IMIM, Barcelona
     role: Research Assistant
     description:
       - For my master thesis in Bioinformatic and in preparation for my PhD, I joined Mar Albà's group to learn about genomic research on biomarkers in immunotherapy.
-    date: Sep. 2021 - Jun. 2022
+    date: Sep. 2021 - Nov. 2022
   - title: Urban Planning and Environmental Health, ISGlobal, Barcelona
     role: Research Assistant
     description: 
@@ -17,3 +22,8 @@ contents:
     description: 
       - During an internship in Prof. Ralf Jacob's group on cytopathology, I learned to structure my own projects from the first idea to their implementation.
     date: Jan. 2018 - Jul. 2018
+  - title: iSCB Student Council
+    role: Volunteer in the Design Committee
+    description:
+      - Designing poster, social media appearance and merch for the Student's Council Symposium (SCS) 2024 .
+    date: since Jan. 2024
