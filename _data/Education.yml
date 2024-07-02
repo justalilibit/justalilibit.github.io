@@ -4,13 +4,9 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: PhD in Bioinformatics, Universidad Pompeu Fabra, Barcelona
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
+      - "Project title: >Identification of novel biomarkers for immunotherapy response<"
     date: since Oct. 2022
   - title: MSc in Bioinformatics, Universidad Pompeu Fabra, Barcelona
-    description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
     grade: "**GPA**: `honored`"
     date: Sep. 2020 - Jul. 2022
   - title: MSc in Public Health, University of Southern Denmark, Esbjerg
