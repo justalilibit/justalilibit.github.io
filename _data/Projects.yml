@@ -5,7 +5,7 @@ contents:
   - title: "Research in 4Min 2024 Finals, UPF Barcelona"
     description: 
       - 4 min presentation of the PhD thesis to the general public - in English.
-    image: "![](https://justalilibit.github.io/assets/img/Rin4min.jpg)"
+    image: '<img src="https://justalilibit.github.io/assets/img/Rin4min.jpg" alt="Rin4min Finals 2024" style="width:500px;height:auto;">'
   - title: "Presentation at the Genomics Seminars of CRG and IMIM"
     description:
       - One hour presentation of my previous publications to a scientific audience - in English.
@@ -16,11 +16,11 @@ contents:
   - title: "OpenPRBB 2023, Barcelona" 
     description: 
       - 20 min Presentation to the general public about my PhD and the work in my lab.
-    image: "![](https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png)"
+    image: '<img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023" style="width:500px;height:auto;">'
   - title: "European Researcher's Night 2021, Barcelona" 
     description: 
       - 10 min Flash Talk about my PhD to the general public - in Spanish.
-    image: "![](https://justalilibit.github.io/assets/img/EuropResNight_2021.png)"
+    image: '<img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night" style="width:500px;height:auto;">'
   - title: "International Day of Women and Girls in Science 2022, Orlot " 
     description: 
       - One hour online presentation for of young adults about Science and my PhD - in Spanish.
