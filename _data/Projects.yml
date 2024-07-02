@@ -2,9 +2,9 @@ subject: Science Communication
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Research in 4Min 2024, UPF Barcelona"
+  - title: "Research in 4Min 2024 Finals, UPF Barcelona"
     description: 
-      - Rin4min finals, presenting PhD thesis in 4 minutes to the general public - in English.
+      - 4 min presentation of the PhD thesis to the general public - in English.
     image: "![](https://justalilibit.github.io/assets/img/Rin4min.jpg)"
   - title: "Presentation at the Genomics Seminars of CRG and IMIM"
     description:
@@ -15,11 +15,11 @@ contents:
       - One hour presentation infront of children explaining my PhD - in Spanish.
   - title: "OpenPRBB 2023, Barcelona" 
     description: 
-      - 20 minute presentation to the general public about my PhD and the work in my lab.
+      - 20 min Presentation to the general public about my PhD and the work in my lab.
     image: "![](https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png)"
   - title: "European Researcher's Night 2021, Barcelona" 
     description: 
-      - 10 minute flash talk about my PhD to the general public - in Spanish.
+      - 10 min Flash Talk about my PhD to the general public - in Spanish.
     image: "![](https://justalilibit.github.io/assets/img/EuropResNight_2021.png)"
   - title: "International Day of Women and Girls in Science 2022, Orlot " 
     description: 
