@@ -10,14 +10,15 @@ contents:
       - "[4] Sakhvidi, M. J.Z, de Keijzer, C., Bauwelinck, M., **Boll, L.M.**, Knobel, P., Jacquemin, B., Dadvand, P. , “[Greenspace exposure and children behavior: A systematic review](https://pubmed.ncbi.nlm.nih.gov/35134416/),” *Sci Total Environ*, 2022; doi: 10.1016/j.scitotenv.2022.153608."
   - title: Posters
     ref:
-      - "EMBL Cancer Genomics Conference 2023, Heidelberg"
-      - "European Conference Computational Biology 2022, Sitges"
-      - "EMBL Cancer Genomics Course 2022, Cambridge"
+      - "EMBL Cancer Genomics Conference 2023, Heidelberg, Germany"
+      - "European Conference Computational Biology 2022, Sitges, Spain"
+      - "Women in Data Science 2022, Barcelona, Spain"
+      - "EMBL Cancer Genomics Course 2022, Cambridge, Great Britain"
     images: |
       <table>
         <tr>
-          <td><img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:200px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:200px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets/img/VHIO_poster.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
         </tr>
       </table>
     
