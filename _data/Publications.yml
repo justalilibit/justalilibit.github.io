@@ -13,4 +13,8 @@ contents:
       - "EMBL Cancer Genomics Conference 2023, Heidelberg"
       - "European Conference Computational Biology 2022, Sitges"
       - "EMBL Cancer Genomics Course 2022, Cambridge"
-      
+    images: |
+    <div style="display: flex; justify-content: space-around;">
+      <img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:200px;height:auto;">
+      <img src="https://justalilibit.github.io/assets/img/VHIO_poster.jpeg.png" alt="VHIO poster" style="width:200px;height:auto;">
+    </div>
