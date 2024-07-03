@@ -17,9 +17,9 @@ contents:
     images: |
       <table>
         <tr>
-          <td><img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
           <td><img src="https://justalilibit.github.io/assets/img/Poster_ECCB.jpeg" alt="EcCb poster" style="width:300px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/VHIO_poster.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets/img/VHIO_poster.jpeg" alt="EMBL poster" style="width:400px;height:auto;"></td>
         </tr>
       </table>
     
