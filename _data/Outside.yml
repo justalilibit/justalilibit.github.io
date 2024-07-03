@@ -1,10 +1,12 @@
-subject: Science and Art
-listing-order: 7
+subject: Outside the lab
+listing-order: 9
 icon: "/assets/img/paintbrush.svg"
 contents:
-  - title: "Design Commitee for Student Council Symposium 2024 (SCS)"
+  - title: "Not just a PhD"
     description: 
-      - Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in montreal, Canada
+      - There is nothing better than an adrenaline rush from pushing your limits and taking a risks in rock climbing for me, if I know I can trust my climbing partner.
+      - To contrast the vivid life in Barcelona, I seek the tranquility of nature through hiking and sailing. 
+      - To disconnect after work, I work on small artsy projects, paint or learning digital art and animation. You can find some things on my (instagram)[https://www.instagram.com/lillus_bazillus].
     image: '<img src="https://justalilibit.github.io/assets/img/SCS_poster.jpg" alt="SCS2024" style="width:300px;height:auto;">'
   - title: "Logo for the PRBB Sustainability Group"
     description: 
