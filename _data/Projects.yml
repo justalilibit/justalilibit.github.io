@@ -2,24 +2,26 @@ subject: Science Communication
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Research in 4Min 2024 Finals, UPF Barcelona"
+  - title: "Research in 4Min Finals, UPF Barcelona"
     description: 
       - 4 min presentation of the PhD thesis to the general public - in English.
-  - title: "Presentation at the Genomics Seminars of CRG and IMIM"
-    description:
-      - One hour presentation of my previous publications to a scientific audience - in English.
-  - title: "International Day of Women and Girls in Science 2024, Mataró"
+    date: May. 9th 2024
+  - title: "International Day of Women and Girls in Science, Mataró"
     description: 
       - One hour talk with school children explaining my PhD - in Spanish.
+    date: Feb. 7th 2024
   - title: "OpenPRBB 2023, Barcelona" 
     description: 
       - 20 min Presentation to the general public about my PhD and the work in my lab.
-  - title: "European Researcher's Night 2021, Barcelona" 
+    date: Oct. 7th 2023
+  - title: "European Researcher's Night, Barcelona" 
     description: 
       - 10 min Flash Talk about my PhD to the general public - in Spanish.
-  - title: "International Day of Women and Girls in Science 2022, Orlot " 
+    date: Sep. 24th 2021
+  - title: "International Day of Women and Girls in Science, Orlot " 
     description: 
       - One hour online presentation for of young adults about Science and my PhD - in Spanish.
+    date: Feb. 7th 2024
 
     images: |
       <table>
