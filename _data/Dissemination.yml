@@ -39,29 +39,93 @@ contents:
         .gallery {
           display: flex;
           flex-wrap: wrap;
-          gap: 20px;
           justify-content: center;
+          gap: 20px;
+        }
+        .gallery-row {
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          margin-bottom: 20px;
         }
         .gallery-item {
           flex: 1;
           max-width: 400px;
         }
+        /* Lightbox styles */
+        .lightbox {
+          display: none;
+          position: fixed;
+          z-index: 999;
+          padding-top: 50px;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          background-color: rgba(0, 0, 0, 0.9);
+          text-align: center;
+        }
+        .lightbox img {
+          max-width: 80%;
+          max-height: 80%;
+        }
+        .lightbox:target {
+          display: block;
+        }
+        .lightbox-close {
+          position: absolute;
+          top: 20px;
+          right: 40px;
+          color: white;
+          font-size: 40px;
+          font-weight: bold;
+          cursor: pointer;
+        }
       </style>
 
       <div class="gallery">
-        <div class="gallery-item">
-          <img src="https://justalilibit.github.io/assets/img/Rin4min.jpg" alt="Rin4min Finals 2024" style="width:100%;height:auto;">
+        <!-- First Row -->
+        <div class="gallery-row">
+          <div class="gallery-item">
+            <a href="#lightbox1"><img src="https://justalilibit.github.io/assets/img/Rin4min.jpg" alt="Rin4min Finals 2024" style="width:100%;height:auto;"></a>
+          </div>
+          <div class="gallery-item">
+            <a href="#lightbox2"><img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night 2021" style="width:100%;height:auto;"></a>
+          </div>
         </div>
-        <div class="gallery-item">
-          <img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night 2021" style="width:100%;height:auto;">
+
+        <!-- Second Row -->
+        <div class="gallery-row">
+          <div class="gallery-item">
+            <a href="#lightbox3"><img src="https://justalilibit.github.io/assets/img/eurResNight2024.jpeg" alt="European Researchers Night 2024" style="width:100%;height:auto;"></a>
+          </div>
+          <div class="gallery-item">
+            <a href="#lightbox4"><img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;"></a>
+          </div>
+          <div class="gallery-item">
+            <a href="#lightbox5"><img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023" style="width:100%;height:auto;"></a>
+          </div>
         </div>
-        <div class="gallery-item">
-          <img src="https://justalilibit.github.io/assets/img/eurResNight2024.jpeg" alt="European Researchers Night 2024" style="width:100%;height:auto;">
-        </div>
-        <div class="gallery-item">
-          <img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;">
-        </div>
-        <div class="gallery-item">
-          <img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023" style="width:100%;height:auto;">
-        </div>
+      </div>
+
+      <!-- Lightbox Modals -->
+      <div id="lightbox1" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/Rin4min.jpg" alt="Rin4min Finals 2024">
+      </div>
+      <div id="lightbox2" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night 2021">
+      </div>
+      <div id="lightbox3" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/eurResNight2024.jpeg" alt="European Researchers Night 2024">
+      </div>
+      <div id="lightbox4" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024">
+      </div>
+      <div id="lightbox5" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023">
       </div>
