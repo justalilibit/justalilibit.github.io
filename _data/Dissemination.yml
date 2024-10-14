@@ -2,32 +2,38 @@ subject: Dissemination
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
+  - title: "European Researcher's Night, Barcelona"
+    description: 
+      - 10 min Flash Talk about my PhD to the general public - in Spanish.
+    date: Sep 27th 2024
   - title: "Research in 4Min Finals, UPF Barcelona"
     description: 
       - 4 min presentation of the PhD thesis to the general public - in English.
-    date: May. 9th 2024
+    date: May 9th 2024
   - title: "International Day of Women and Girls in Science, Mataró"
     description: 
       - One hour talk with school children explaining my PhD - in Spanish.
-    date: Feb. 7th 2024
+    date: Feb 7th 2024
   - title: "OpenPRBB 2023, Barcelona" 
     description: 
       - 20 min Presentation to the general public about my PhD and the work in my lab.
-    date: Oct. 7th 2023
+    date: Oct 7th 2023
   - title: "European Researcher's Night, Barcelona" 
     description: 
       - 10 min Flash Talk about my PhD to the general public - in Spanish.
-    date: Sep. 24th 2021
+    date: Sep 24th 2021
   - title: "International Day of Women and Girls in Science, Orlot " 
     description: 
       - One hour online presentation for of young adults about Science and my PhD - in Spanish.
-    date: Feb. 7th 2024
+    date: Feb 7th 2024
 
     images: |
       <table>
         <tr>
           <td><img src= "https://justalilibit.github.io/assets/img/Rin4min.jpg" alt="Rin4min Finals 2024" style="width:300px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night" style="width:300px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night 2021" style="width:300px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets/img/eurResNight2024.jpeg" alt="European Researchers Night 2024" style="width:150px;height:auto;"></td>
+      
         </tr>
       </table>
       <table>
