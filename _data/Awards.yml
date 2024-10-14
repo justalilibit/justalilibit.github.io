@@ -2,11 +2,11 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: INPhINIT Doctoral Fellow
+  - title: <a href="https://fundacionlacaixa.org/es/becas-doctorado-inphinit-convocatoria-incoming" target="_blank">INPhINIT Doctoral Fellow</a>
     description: Fundación "laCaixa", 6.5% sucess rate
     date: Nov. 2022
   - title: Master Thesis Award
-    description: 2nd place in the [VHIO Computational Oncology Master Thesis Award](https://vhio.net/vhio-computational-oncology-master-thesis-award/)
+    description: 2nd place in the <a href="https://vhio.net/vhio-computational-oncology-master-thesis-award/" target="_blank">VHIO Computational Oncology Master Thesis Award</a>
     date: Jul. 2023
   - title: Honorific mention for MSc Thesis 
     description: best possible grade for my Master Thesis in *Bioinformatics*, Universidad Pompeu Fabra

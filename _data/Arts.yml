@@ -2,7 +2,7 @@ subject: Science and Art
 listing-order: 7
 icon: "/assets/img/paintbrush.svg"
 contents:
-  - title: "Design Commitee for Student Council Symposium 2024 (SCS)"
+  - title: "Design Commitee for <a href="https://www.iscb.org/scs2024/home" target="_blank">Student Council Symposium 2024 (SCS)</a>"
     description: 
       - Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in montreal, Canada
     image: '<img src="https://justalilibit.github.io/assets/img/SCS_poster.jpg" alt="SCS2024" style="width:300px;height:auto;">'

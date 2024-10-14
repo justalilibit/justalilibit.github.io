@@ -64,16 +64,16 @@ contents:
   - title: Arts & Design
     description: |
       <div class="icons-section">
+        <!-- Affinity -->
+        <div class="icon-container">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Icon_AffinityDesigner_DesignerPersona.svg" alt="Affinity">
+          <span class="icon-label">Affinity Designer</span>
+        </div>
+
         <!-- Illustrator -->
         <div class="icon-container">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator">
           <span class="icon-label">Adobe Illustrator</span>
-        </div>
-
-        <!-- Affinity -->
-        <div class="icon-container">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Icon_AffinityDesigner_DesignerPersona.svg" alt="Affinity">
-          <span class="icon-label">Affinity Designerer</span>
         </div>
 
         <!-- Inkscape -->
