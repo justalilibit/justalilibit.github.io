@@ -28,16 +28,40 @@ contents:
     date: Feb 7th 2024
 
     images: |
-      <table>
-        <tr>
-          <td><img src="https://justalilibit.github.io/assets/img/Rin4min.jpg" alt="Rin4min Finals 2024" style="width:400px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night 2021" style="width:400px;height:auto;"></td>
-        </tr>
-        <tr>
-          <td colspan="2" style="text-align:center;"><img src="https://justalilibit.github.io/assets/img/eurResNight2024.jpeg" alt="European Researchers Night 2024" style="width:280px;height:auto;"></td>
-        </tr>
-        <tr>
-          <td><img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:400px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023"  style="width:400px;height:auto;"></td>
-        </tr>
-      </table>
+      <style>
+        .gallery img {
+          transition: transform 0.3s ease;
+          cursor: pointer;
+        }
+        .gallery img:hover {
+          transform: scale(1.2);
+        }
+        .gallery {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 20px;
+          justify-content: center;
+        }
+        .gallery-item {
+          flex: 1;
+          max-width: 400px;
+        }
+      </style>
+
+      <div class="gallery">
+        <div class="gallery-item">
+          <img src="https://justalilibit.github.io/assets/img/Rin4min.jpg" alt="Rin4min Finals 2024" style="width:100%;height:auto;">
+        </div>
+        <div class="gallery-item">
+          <img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night 2021" style="width:100%;height:auto;">
+        </div>
+        <div class="gallery-item">
+          <img src="https://justalilibit.github.io/assets/img/eurResNight2024.jpeg" alt="European Researchers Night 2024" style="width:100%;height:auto;">
+        </div>
+        <div class="gallery-item">
+          <img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;">
+        </div>
+        <div class="gallery-item">
+          <img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023" style="width:100%;height:auto;">
+        </div>
+      </div>
