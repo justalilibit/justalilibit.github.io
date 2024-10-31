@@ -19,7 +19,7 @@ This portfolio website highlights my:
 - Built with [Jekyll](https://jekyllrb.com/)
 - Hosted on GitHub Pages
 - Based on the Jekyll Professional Resume template
-- Customized for bioinformatics portfolio presentation
+- Customized for personal use as a bioinformatics portfolio presentation
 
 
 ## 🙏 Acknowledgments
