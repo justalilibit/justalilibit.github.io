@@ -12,20 +12,20 @@ contents:
     date: May 9th 2024
   - title: "International Day of Women and Girls in Science, Mataró"
     description: 
-      - One hour talk with school children explaining my PhD - in Spanish.
+      - One hour talk with school children explaining the basics of bioinformatics research - in Spanish.
     date: Feb 7th 2024
   - title: "OpenPRBB 2023, Barcelona" 
     description: 
-      - 20 min Presentation to the general public about my PhD and the work in my lab.
+      - 20 min Presentation to the general public about my work as a Bioinformatician.
     date: Oct 7th 2023
+  - title: "International Day of Women and Girls in Science, Orlot " 
+    description: 
+      - One hour online presentation for young adults about my work as a female scientist - in Spanish.
+    date: Feb 7th 2022
   - title: "European Researcher's Night, Barcelona" 
     description: 
       - 10 min Flash Talk about my PhD to the general public - in Spanish.
     date: Sep 24th 2021
-  - title: "International Day of Women and Girls in Science, Orlot " 
-    description: 
-      - One hour online presentation for of young adults about Science and my PhD - in Spanish.
-    date: Feb 7th 2024
 
     images: |
       <style>

@@ -1,2 +1,1 @@
-# Lilian Marie Boll
-## Personal webpage, 2024
+#[Visit my personal webpage](https://justalilibit.github.io/)
