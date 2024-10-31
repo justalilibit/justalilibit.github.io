@@ -1,4 +1,4 @@
-# Personal Bioinformatics Portfolio
+# Lilian Marie Boll - Bioinformatics Portfolio
 
 This repository contains the source code for my [personal portfolio website](https://justalilibit.github.io/) showcasing my work and experience as a bioinformatician. The website is built using Jekyll and is based on the  template by Yanko.
 
@@ -21,9 +21,9 @@ This portfolio website highlights my:
 
 ## 🙏 Acknowledgments
 
-Original [Jekyll Professional Resume template](https://github.com/byanko55/jekyll-professional-resume) by Yanko
-Jekyll static site generator
-GitHub Pages for hosting
+- Original [Jekyll Professional Resume template](https://github.com/byanko55/jekyll-professional-resume) by Yanko
+- Jekyll static site generator
+- GitHub Pages for hosting
 
 
 ## 📄 License
