@@ -1,9 +1,6 @@
 # Personal Bioinformatics Portfolio
 
-Click here to visit [my webpage](https://justalilibit.github.io/)
-
-
-This repository contains the source code for my personal portfolio website showcasing my work and experience as a bioinformatician. The website is built using Jekyll and is based on the [Jekyll Professional Resume](https://github.com/byanko55/jekyll-professional-resume) template by Yanko.
+This repository contains the source code for my [personal portfolio website](https://justalilibit.github.io/) showcasing my work and experience as a bioinformatician. The website is built using Jekyll and is based on the  template by Yanko.
 
 ## 🔍 Overview
 
@@ -24,7 +21,7 @@ This portfolio website highlights my:
 
 ## 🙏 Acknowledgments
 
-Original template by Yanko
+Original [Jekyll Professional Resume template](https://github.com/byanko55/jekyll-professional-resume) by Yanko
 Jekyll static site generator
 GitHub Pages for hosting
 
