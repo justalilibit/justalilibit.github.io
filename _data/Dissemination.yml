@@ -2,6 +2,10 @@ subject: Dissemination
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
+  - title: "International Day of Women and Girls in Science, Barcelona"
+    description: 
+      - 2 hours of Experiments with Students of 6 to 8 years old - in Spanish.
+    date: Mar 8th 2025
   - title: "European Researcher's Night, Barcelona"
     description: 
       - 10 min Flash Talk about my PhD to the general public - in Spanish.
@@ -12,7 +16,7 @@ contents:
     date: May 9th 2024
   - title: "International Day of Women and Girls in Science, Mataró"
     description: 
-      - One hour talk with school children explaining the basics of bioinformatics research - in Spanish.
+      - One hour talk with school children of 13 years old, explaining the basics of bioinformatics research - in Spanish.
     date: Feb 7th 2024
   - title: "OpenPRBB 2023, Barcelona" 
     description: 
