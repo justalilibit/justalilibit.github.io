@@ -1,16 +1,16 @@
 subject: Experiences
-listing-order: 2
+listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Evolutionary Genomics, IMIM, Barcelona
+  - title: "[Evolutionary Genomics Groups](http://evolutionarygenomics.upf.edu/group/), IMIM, Barcelona"
     role: PhD Student
     description:
-      - "Working title: >> Identification of novel biomarkers for immunotherapy response <<"
+      - "Working title: >> Identification of novel biomarkers for immunotherapy response << under the supervision of M.Mar Albà"
     date: since Nov. 2022 
   - title: Evolutionary Genomics, IMIM, Barcelona
     role: Research Assistant
     description:
-      - For my master thesis in Bioinformatic and in preparation for my PhD, I joined Mar Albà's group to learn about genomic research on biomarkers in immunotherapy.
+      - For my master thesis in Bioinformatic and in preparation for my PhD, I joined [M. Mar Albà's group](http://evolutionarygenomics.upf.edu/group/) to learn about genomic research on biomarkers in immunotherapy.
     date: Sep. 2021 - Nov. 2022
   - title: Urban Planning and Environmental Health, ISGlobal, Barcelona
     role: Research Assistant
