@@ -10,14 +10,18 @@ contents:
       - "[4] Sakhvidi, M. J.Z, de Keijzer, C., Bauwelinck, M., **Boll, L.M.**, Knobel, P., Jacquemin, B., Dadvand, P. , “[Greenspace exposure and children behavior: A systematic review](https://pubmed.ncbi.nlm.nih.gov/35134416/),” *Sci Total Environ*, 2022; doi: 10.1016/j.scitotenv.2022.153608."
   - title: Scientific Talks  
     description:
-      - Seminar at PRBB Computational Genomics Seminars, PRBB, Barcelona, Spain
-      - Talk and poster presentation at the VHIO Computational Oncology Master Thesis Award, Barcelona, Spain
+      - European Association for Cancer Research (EACR), Barcelona, Spain, 13th of May 2025.
+      - PRBB Computational Genomics Symposium, St Feliu de Guíxols, Spain, 28th of April 2025.
+      - PRBB Computational Genomics Seminars, Barcelona, Spain, 4th of April 2024.
+      - VHIO Computational Oncology Master Thesis Award, Barcelona, Spain, 21st of February 2024
   - title: Posters
     ref:
-      - "[5] EMBL Cancer Genomics Conference 2023, Heidelberg, Germany"
-      - "[6] European Conference Computational Biology 2022, Sitges, Spain"
-      - "[7] Women in Data Science 2022, Barcelona, Spain"
-      - "[8] EMBL Cancer Genomics Course 2022, Cambridge, Great Britain"
+      - "EMBL Cancer Genomics Conference, Heidelberg, Germany, 16th of November 2023"
+      - "PRBB Computational Genomics Symposium,  St Feliu de Guíxols, Spain, 13th of April 2023"
+      - "Women in Data Science, Barcelona, Spain, 28th of September 2022"
+      - "European Conference Computational Biology (ECCB), Sitges, Spain, 12th of September 2022"
+      - "Immunity and Cancer Immunotherapy, Marseille, France, 21st of June 2022"
+      - "EMBL Cancer Genomics Course, Cambridge, Great Britain, 20th of June 2022"
     images: |
       <table>
         <tr>
