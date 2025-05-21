@@ -2,12 +2,12 @@ subject: Experiences
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: "[Evolutionary Genomics Groups](http://evolutionarygenomics.upf.edu/group/), IMIM, Barcelona"
+  - title: "Evolutionary Genomics Groups, Hospital del Mar Research Institute, Barcelona"
     role: PhD Student
     description:
-      - "Working title: >> Identification of novel biomarkers for immunotherapy response << under the supervision of M.Mar Albà"
+      - "Thesis >> DECODING IMMUNE CHECKPOINT INHIBITOR RESPONSE: Discovery and Prediction Modeling through Multi-Omics Analyses  << under the supervision of M.Mar Albà"
     date: since Nov. 2022 
-  - title: Evolutionary Genomics, IMIM, Barcelona
+  - title: "Evolutionary Genomics Groups, Hospital del Mar Research Institute, Barcelona"
     role: Research Assistant
     description:
       - For my master thesis in Bioinformatic and in preparation for my PhD, I joined [M. Mar Albà's group](http://evolutionarygenomics.upf.edu/group/) to learn about genomic research on biomarkers in immunotherapy.
@@ -25,5 +25,5 @@ contents:
   - title: iSCB Student Council
     role: Volunteer in the Design Committee
     description:
-      - Designing poster, social media appearance and merch for the Student's Council Symposium (SCS) 2024 .
+      - Designing posters/handouts, social media appearance and merch for the Student's Council Symposium (SCS) 2024 .
     date: since Jan. 2024
