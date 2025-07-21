@@ -4,23 +4,20 @@ icon: "/assets/img/paintbrush.svg"
 contents:
   - title: "Animations of immune checkpoint inhibitors' target='_blank'>Student Council Symposium 2024 (SCS)</a>"
     description: 
-        - "Mechanism of action of immune checkpoint inhibitors (ICI) in cancer immunotherapy.""
-    <div style="display: flex; justify-content: space-between; gap: 20px;">
+      - "Mechanism of action of immune checkpoint inhibitors (ICI) in cancer immunotherapy."
+      - |
         <div>
-            <h3>Animations of immune checkpoint inhibitors - Student Council Symposium 2024 (SCS)</h3>
-            <p>Mechanism of action of immune checkpoint inhibitors (ICI) in cancer immunotherapy.</p>
-            <video width="500" height="auto" controls>
-                <source src="https://justalilibit.github.io/assets/vid/ici_untreated.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
+          <video width="500" height="auto" controls>
+            <source src="https://justalilibit.github.io/assets/vid/ici_untreated.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
         </div>
         <div>
-            <video width="500" height="auto" controls>
-                <source src="https://justalilibit.github.io/assets/vid/ici_Tcell.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
+          <video width="500" height="auto" controls>
+            <source src="https://justalilibit.github.io/assets/vid/ici_Tcell.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
         </div>
-    </div>
   - title: "Design Commitee for <a href='https://www.iscb.org/scs2024/home' target='_blank'>Student Council Symposium 2024 (SCS)</a>"
     description: 
       - Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in montreal, Canada
