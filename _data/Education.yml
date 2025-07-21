@@ -4,13 +4,16 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: PhD in Bioinformatics, Universidad Pompeu Fabra, Barcelona
     description:
-    date: since Oct. 2022
+    date: Nov. 2021 - Jul. 2025
+    thesis: "DECODING IMMUNE CHECKPOINT INHIBITOR RESPONSE: Biomarker discovery and Prediction Modeling through Multi-Omics Analyses"
+    supervisor: "M. Mar Albà"
+    grade: "`excellent` [Read my thesis](https://justalilibit.github.io/assets/pdf/Thesis_BOLL_17Apr2025.pdf)!"
   - title: MSc in Bioinformatics, Universidad Pompeu Fabra, Barcelona
-    grade: "**GPA**: `honored`"
+    grade: "`honored`"
     date: Sep. 2020 - Jul. 2022
   - title: MSc in Public Health, University of Southern Denmark, Esbjerg
-    grade: "**GPA**: `honored`"
+    grade: "`honored`"
     date: Sep. 2018 - Jul. 2020
   - title: BSc in Biomedical Science, Philipps Universität, Marburg
-    grade: "**GPA**: `honored`"
+    grade: "`honored`"
     date: Sep. 2015 - Jul. 2018
