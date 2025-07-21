@@ -10,10 +10,17 @@ contents:
       - "[4] Sakhvidi, M. J.Z, de Keijzer, C., Bauwelinck, M., **Boll, L.M.**, Knobel, P., Jacquemin, B., Dadvand, P. , “[Greenspace exposure and children behavior: A systematic review](https://pubmed.ncbi.nlm.nih.gov/35134416/),” *Sci Total Environ*, 2022; doi: 10.1016/j.scitotenv.2022.153608."
   - title: Scientific Talks  
     description:
-      - European Association for Cancer Research (EACR), Barcelona, Spain, 13th of May 2025.
-      - PRBB Computational Genomics Symposium, St Feliu de Guíxols, Spain, 28th of April 2025.
-      - PRBB Computational Genomics Seminars, Barcelona, Spain, 4th of April 2024.
-      - VHIO Computational Oncology Master Thesis Award, Barcelona, Spain, 21st of February 2024
+      - "European Association for Cancer Research (EACR), Barcelona, Spain, 13th of May 2025."
+      - "PRBB Computational Genomics Symposium, St Feliu de Guíxols, Spain, 28th of April 2025."
+      - "PRBB Computational Genomics Seminars, Barcelona, Spain, 4th of April 2024."
+      - "VHIO Computational Oncology Master Thesis Award, Barcelona, Spain, 21st of February 2024"
+    images: |
+        <table>
+          <tr>
+            <td><img src="https://justalilibit.github.io/assets/img/EACR_2025_1.jpeg" alt="EACR talk" style="width:500px;height:auto;"></td>
+            <td><img src="https://justalilibit.github.io/assets/img/EACR_2025_2.jpeg" alt="EACR discussion" style="width:500px;height:auto;"></td>
+          </tr>
+        </table>
   - title: Posters
     ref:
       - "EMBL Cancer Genomics Conference, Heidelberg, Germany, 16th of November 2023"
@@ -27,7 +34,7 @@ contents:
         <tr>
           <td><img src="https://justalilibit.github.io/assets/img/Poster_ECCB.jpeg" alt="EcCb poster" style="width:320px;height:auto;"></td>
           <td><img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/VHIO_poster.jpeg" alt="EMBL poster" style="width:390px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets/img/EACR_poster.jpeg" alt="EACR poster" style="width:390px;height:auto;"></td>
         </tr>
       </table>
     
