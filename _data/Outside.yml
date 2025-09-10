@@ -78,10 +78,10 @@ images: |
             <a href="#lightbox3"><img src="https://justalilibit.github.io/assets/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox4"><img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;"></a>
+            <a href="#lightbox4"><img src="https://justalilibit.github.io/assets/img/sail.jpeg" alt="Catamaran" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox5"><img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023" style="width:100%;height:auto;"></a>
+            <a href="#lightbox5"><img src="https://justalilibit.github.io/assets/img/volley.jpg" alt="Volley 2024" style="width:100%;height:auto;"></a>
           </div>
         </div>
       </div>
@@ -93,7 +93,7 @@ images: |
       </div>
       <div id="lightbox2" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="European Researchers Night 2021">
+        <img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="Ski 2025">
       </div>
       <div id="lightbox3" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
@@ -101,9 +101,9 @@ images: |
       </div>
       <div id="lightbox4" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024">
+        <img src="https://justalilibit.github.io/assets/img/sail.jpeg" alt="Catamaran">
       </div>
       <div id="lightbox5" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023">
+        <img src="https://justalilibit.github.io/assets/img/volley.jpg" alt="volley 2024">
       </div>
