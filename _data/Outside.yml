@@ -68,7 +68,7 @@ images: |
             <a href="#lightbox1"><img src="https://justalilibit.github.io/assets/img/Ski_2.jpeg" alt="Gargellen 2025" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2"><img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="European Researchers Night 2021" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2"><img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="Mountain tour 2025" style="width:100%;height:auto;"></a>
           </div>
         </div>
 
@@ -93,7 +93,7 @@ images: |
       </div>
       <div id="lightbox2" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="Ski 2025">
+        <img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="Mountain skiing 2025">
       </div>
       <div id="lightbox3" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
@@ -101,9 +101,9 @@ images: |
       </div>
       <div id="lightbox4" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/sail.jpeg" alt="Catamaran">
+        <img src="https://justalilibit.github.io/assets/img/sail.jpeg" alt="Catamaran Baltic Sea">
       </div>
       <div id="lightbox5" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/volley.jpg" alt="volley 2024">
+        <img src="https://justalilibit.github.io/assets/img/volley.jpg" alt="Volley Tournament PRBB 2024">
       </div>

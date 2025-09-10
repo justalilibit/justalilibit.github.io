@@ -2,9 +2,8 @@ subject: Science and Art
 listing-order: 7
 icon: "/assets/img/paintbrush.svg"
 contents:
-  - title: "Animations of immune checkpoint inhibitors' target='_blank'>Student Council Symposium 2024 (SCS)</a>"
+  - title: "Animations of immune checkpoint inhibitors"
     description: 
-      - "Mechanism of action of immune checkpoint inhibitors (ICI) in cancer immunotherapy."
       - |
         <div>
           <video width="500" height="auto" controls>
