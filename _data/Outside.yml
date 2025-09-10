@@ -1,18 +1,109 @@
-subject: Outside the lab
+subject: Not just a PhD
 listing-order: 9
 icon: "/assets/img/paintbrush.svg"
 contents:
-  - title: "Not just a PhD"
-    description: 
-      - There is nothing better than an adrenaline rush from pushing your limits and taking a risks in rock climbing for me, if I know I can trust my climbing partner.
-      - To contrast the vivid life in Barcelona, I seek the tranquility of nature through hiking and sailing. 
-      - To disconnect after work, I work on small artsy projects, paint or learning digital art and animation. You can find some things on my (instagram)[https://www.instagram.com/lillus_bazillus].
+  - title: "Besides being a scientist, I also enjoy drawing and designing. Here are some examples of my work"
     image: '<img src="https://justalilibit.github.io/assets/img/SCS_poster.jpg" alt="SCS2024" style="width:300px;height:auto;">'
-  - title: "Logo for the PRBB Sustainability Group"
-    description: 
-      - Designed the new logo for the PRBB Sustainability Group
-    image: '<img src="https://justalilibit.github.io/assets/img/Sus_logo.jpeg" alt="PRBB Sustainability Group" style="width:300px;height:auto;">'
-  - title: "Title Page for a PhD Thesis"
-    description: 
-      - A comic for a colleague's PhD thesis
-    image: '<img src="https://justalilibit.github.io/assets/img/Jesus_Thesis.png" alt="HER2" style="width:300px;height:auto;">'
+  - title: "In my freetime, you'll find me outdoors. Climbing, beach volley, skiing, sailing. I love learning new sports and exploring nature."
+images: |
+      <style>
+        .gallery img {
+          transition: transform 0.3s ease;
+          cursor: pointer;
+        }
+        .gallery img:hover {
+          transform: scale(1.2);
+        }
+        .gallery {
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 20px;
+        }
+        .gallery-row {
+          display: flex;
+          justify-content: center;
+          gap: 20px;
+          margin-bottom: 20px;
+        }
+        .gallery-item {
+          flex: 1;
+          max-width: 400px;
+        }
+        /* Lightbox styles */
+        .lightbox {
+          display: none;
+          position: fixed;
+          z-index: 999;
+          padding-top: 50px;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          background-color: rgba(0, 0, 0, 0.9);
+          text-align: center;
+        }
+        .lightbox img {
+          max-width: 80%;
+          max-height: 80%;
+        }
+        .lightbox:target {
+          display: block;
+        }
+        .lightbox-close {
+          position: absolute;
+          top: 20px;
+          right: 40px;
+          color: white;
+          font-size: 40px;
+          font-weight: bold;
+          cursor: pointer;
+        }
+      </style>
+
+      <div class="gallery">
+        <!-- First Row -->
+        <div class="gallery-row">
+          <div class="gallery-item">
+            <a href="#lightbox1"><img src="https://justalilibit.github.io/assets/img/Ski_2.jpeg" alt="Gargellen 2025" style="width:100%;height:auto;"></a>
+          </div>
+          <div class="gallery-item">
+            <a href="#lightbox2"><img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="European Researchers Night 2021" style="width:100%;height:auto;"></a>
+          </div>
+        </div>
+
+        <!-- Second Row -->
+        <div class="gallery-row">
+          <div class="gallery-item">
+            <a href="#lightbox3"><img src="https://justalilibit.github.io/assets/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
+          </div>
+          <div class="gallery-item">
+            <a href="#lightbox4"><img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;"></a>
+          </div>
+          <div class="gallery-item">
+            <a href="#lightbox5"><img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023" style="width:100%;height:auto;"></a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Lightbox Modals -->
+      <div id="lightbox1" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/Ski_2.jpeg" alt="Ski 2025">
+      </div>
+      <div id="lightbox2" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="European Researchers Night 2021">
+      </div>
+      <div id="lightbox3" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga">
+      </div>
+      <div id="lightbox4" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024">
+      </div>
+      <div id="lightbox5" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023">
+      </div>
