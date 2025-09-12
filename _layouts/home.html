@@ -54,7 +54,7 @@
         {% if site.ORCID_username %}
           <li><a aria-label="My ORCID" href="https://orcid.org/{{ site.ORCID_username }}">
             <img src="{{ '/assets/img/ORCID.svg' | prepend: site.baseurl }}" alt="My ORCID">
-            <div><span>{{ site.ORCID_username }}</span></div>
+            <div><span>ORCID: {{ site.ORCID_username }}</span></div>
           </a></li>
         {% endif %}
         {% if site.github_username %}
