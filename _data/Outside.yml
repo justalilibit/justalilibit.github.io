@@ -76,13 +76,13 @@ contents:
         <!-- Second Row -->
         <div class="gallery-row">
           <div class="gallery-item">
-            <a href="#lightbox3"><img src="https://justalilibit.github.io/assets/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.3"><img src="https://justalilibit.github.io/assets/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox4"><img src="https://justalilibit.github.io/assets/img/sail.jpeg" alt="Catamaran" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.4"><img src="https://justalilibit.github.io/assets/img/sail.jpeg" alt="Catamaran" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox5"><img src="https://justalilibit.github.io/assets/img/volley.jpg" alt="Volley 2024" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.5"><img src="https://justalilibit.github.io/assets/img/volley.jpg" alt="Volley 2024" style="width:100%;height:auto;"></a>
           </div>
         </div>
       </div>
