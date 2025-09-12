@@ -5,7 +5,8 @@ contents:
   - title: "Besides being a scientist, I also enjoy drawing and designing. Here are some examples of my work"
     image: '<img src="https://justalilibit.github.io/assets/img/SCS_poster.jpg" alt="SCS2024" style="width:300px;height:auto;">'
   - title: "In my freetime, you'll find me outdoors. Climbing, beach volley, skiing, sailing. I love learning new sports and exploring nature."
-images: |
+
+    images: |
       <style>
         .gallery img {
           transition: transform 0.3s ease;
