@@ -60,26 +60,24 @@ contents:
       </style>
 
       <div class="gallery">
-        <!-- First Row -->
           <div class="gallery-item">
-            <a href="#lightbox2.6"><img src="https://justalilibit.github.io/assets/img/boat_aquarell.jpeg" alt="boat1" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.6"><img src="https://justalilibit.github.io/assets/img/Boat_aquarell.jpeg" alt="boat1" style="width:80%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.7"><img src="https://justalilibit.github.io/assets/img/boat_aquarell_2.jpeg" alt="boat2" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.7"><img src="https://justalilibit.github.io/assets/img/boat_aquarell_2.jpeg" alt="boat2" style="width:80%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets/img/pants_acryl.jpeg" alt="trousers" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets/img/pants_acryl.jpeg" alt="trousers" style="width:110%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets/img/holzbrett.jpg" alt="board" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets/img/holzbrett.jpg" alt="board" style="width:120%;height:auto;"></a>
           </div>
-        </div>
       </div>
 
       <!-- Lightbox Modals -->
       <div id="lightbox2.6" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/boat_aquarell.jpeg" alt="boat">
+        <img src="https://justalilibit.github.io/assets/img/Boat_aquarell.jpeg" alt="boat">
       </div>
       <div id="lightbox2.7" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
