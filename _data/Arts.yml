@@ -6,13 +6,13 @@ contents:
     description: 
       - |
         <div>
-          <video width="500" height="auto" controls>
+        <video width="500" style="height:auto;" controls>
             <source src="https://justalilibit.github.io/assets/vid/ici_untreated.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
         </div>
         <div>
-          <video width="500" height="auto" controls>
+        <video width="500" style="height:auto;" controls>
             <source src="https://justalilibit.github.io/assets/vid/ici_Tcell.mp4" type="video/mp4">
             Your browser does not support the video tag.
           </video>
