@@ -2,7 +2,7 @@ subject: Experiences
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: "Evolutionary Genomics Groups, Hospital del Mar Research Institute, Barcelona"
+  - title: "Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona"
     role: PhD Student
     description:
       - "Led real-world data projects integrating clinical and multi-omics datasets from hospitals, consortia, and industry to identify novel biomarkers."
@@ -16,11 +16,13 @@ contents:
     description: 
       - "Experience in immunopeptidomics and survival data during a 4 week stay in the <a href=\"https://vhio.net/pf/computational-immunogenomics-group/\" target=\"_blank\">Computational Immunogenomics Group</a> under Francisco Martínez Jiménez and the <a href=\"https://vhio.net/pf/cancer-computational-biology-group/\" target=\"_blank\">Cancer Computational Biology Group</a> under José Antonio Seoane."
     date: July 2024
-  - title: "Evolutionary Genomics Groups, Hospital del Mar Research Institute, Barcelona"
+
+  - title: "Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona"
     role: Research Assistant
     description:
       - For my master thesis in Bioinformatic and in preparation for my PhD, I joined <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's group</a> to learn about genomic research on biomarkers in immunotherapy.
     date: Sep. 2021 - Nov. 2022
+
   - title: Urban Planning and Environmental Health, ISGlobal, Barcelona
     role: Research Assistant
     description: 
@@ -28,12 +30,14 @@ contents:
       - Applied statistical programming and causal inference methods to account for socio-economic and cultural factors.
       - Contributed to publications and multi-disciplinary collaborative reviews.
     date: Sep. 2019 - Feb. 2020
+
   - title: Cell Biology, Philipps Universität, Marburg
     role: Research Assistant
     description: 
       - During an internship in Prof. Ralf Jacob's group on cytopathology, I applied wet lab techniques such as live-cell imagining and fluorescence microscopy.
       - First contact with scientific writing and learned to structure own projects from the first idea to their implementation.
     date: Jan. 2018 - Jul. 2018
+    
   - title: iSCB Student Council
     role: Volunteer in the Design Committee
     description:

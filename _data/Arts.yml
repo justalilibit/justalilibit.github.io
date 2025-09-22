@@ -4,19 +4,18 @@ icon: "/assets/img/paintbrush.svg"
 contents:
   - title: "Animations of immune checkpoint inhibitors"
     description: 
-      - |
-        <div>
+    - <div style="display:flex; gap:20px;">
         <video width="500" style="height:auto;" controls>
-            <source src="https://justalilibit.github.io/assets/vid/ici_untreated_web.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </div>
-        <div>
+          <source src="https://justalilibit.github.io/assets/vid/ici_untreated_web.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+
         <video width="500" style="height:auto;" controls>
-            <source src="https://justalilibit.github.io/assets/vid/ici_Tcell_web.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        </div>
+          <source src="https://justalilibit.github.io/assets/vid/ici_Tcell_web.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
   - title: "Design Commitee for <a href='https://www.iscb.org/scs2024/home' target='_blank'>Student Council Symposium 2024 (SCS)</a>"
     description: 
       - Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in montreal, Canada
