@@ -3,7 +3,7 @@ listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
   - title: "Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona"
-    role: PhD Student
+    role: PhD Student with <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's group</a>.
     description:
       - "Led real-world data projects integrating clinical and multi-omics datasets from hospitals, consortia, and industry to identify novel biomarkers."
       - "Designed and analyzed studies, ensured data harmonization and quality control, and generated robust evidence."
