@@ -2,6 +2,10 @@ subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
+  - title: Data and Tech
+    description: 
+      - APIs & Workflow Automation, Machine learning & Statistical Modeling, Data Visualization & Reporting, Database Management, Cluster Computing, Version Control & Collaboration (Git/GitHub)
+
   - title: Programming Languages
     description: |
       <style>
@@ -48,6 +52,12 @@ contents:
           <span class="icon-label">Bash</span>
         </div>
 
+        <!-- SLURM -->
+        <div class="icon-container">
+          <img src="/Users/lilianboll/Documents/github.io/justalilibit.github.io/assets/img/Slurm_logo.svg" alt="Slurm(HPC)">
+          <span class="icon-label">Slurm</span>
+        </div>
+
         <!-- HTML5 -->
         <div class="icon-container">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5">
@@ -60,6 +70,18 @@ contents:
           <span class="icon-label">MySQL</span>
         </div>
       </div>
+
+  - title: Scientific Skills
+    description: 
+      - Clinical Data Analysis, Multi-omics (Genomics, Transcriptomics, Immunopeptidomics, Single-cell), Research Data Management, Data Governance & Compliance, Open Science Practices
+
+  - title: Project Management
+    description: 
+      - Critical Thinking, Problem Solving, Adaptability, Teamwork, Multi-Partner Coordination, Grant Writing Support, Time Management, Attention to Detail
+
+  - title: Communication & Writing
+    description: 
+      - Scientific Writing, Data Storytelling, Presentation Design, Public Speaking, Social Media for Science Communication
 
   - title: Arts & Design
     description: |
