@@ -38,12 +38,11 @@ contents:
         </video>
       </div>
 
-  - title: "Logo for the PRBB Sustainability Group (left)"
-  - title: "Design Commitee for <a href='https://www.iscb.org/scs2024/home' target='_blank'>Student Council Symposium 2024 (SCS)</a>"
+  - title: "Graphic Design Projects"
     description: 
-      - Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in Montreal, Canada. 
-      - <a href="https://www.instagram.com/iscb_sc/" target="_blank">Check out the iSCB instagram</a> |
-    image:
+      - "**PRBB Sustainability Group Logo** (left)"
+      - "**Design Committee for <a href='https://www.iscb.org/scs2024/home' target='_blank'>Student Council Symposium 2024 (SCS)</a>** (center and right): Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in Montreal, Canada."
+    image: |
       <table>
       <tr>
         <td><img src="https://justalilibit.github.io/assets/img/Sus_logo.jpg" alt="PRBB Sustainability Group" style="width:300px;height:auto;"></td>
