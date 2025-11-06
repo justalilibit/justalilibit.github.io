@@ -96,16 +96,12 @@ contents:
           <div class="gallery-item">
             <a href="#lightbox2"><img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night 2021" style="width:80%;height:auto;"></a>
           </div>
-        </div>
-
-        <!-- Second Row -->
-        <div class="gallery-row">
           <div class="gallery-item">
             <a href="#lightbox3"><img src="https://justalilibit.github.io/assets/img/eurResNight2024.jpeg" alt="European Researchers Night 2024" style="width:100%;height:auto;"></a>
           </div>
-          <div class="gallery-item">
-            <a href="#lightbox4"><img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;"></a>
-          </div>
+          # <div class="gallery-item">
+          #   <a href="#lightbox4"><img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;"></a>
+          # </div>
           <div class="gallery-item">
             <a href="#lightbox5"><img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023" style="width:100%;height:auto;"></a>
           </div>
@@ -123,7 +119,7 @@ contents:
       </div>
       <div id="lightbox3" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/eurResNight2024.jpeg" alt="European Researchers Night 2024">
+        <img src="https://justalilibit.github.io/assets/img/eurResNight2024_2.jpeg" alt="European Researchers Night 2024">
       </div>
       <div id="lightbox4" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
