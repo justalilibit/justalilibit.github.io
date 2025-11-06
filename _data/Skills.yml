@@ -4,20 +4,16 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Scientific Skills
     description: 
-      - Clinical Data Analysis
-      - Multi-omics (Genomics, Transcriptomics, Immunopeptidomics, Single-cell)
-      - Research Data Management, Data Governance & Compliance
-      - Open Science Practices
+      - Integrative multi-omics analysis (genomics, transcriptomics, single-cell, immunopeptidomics)
+      - Clinical and molecular data interpretation
+      - Research data management, governance & FAIR data practices
+      - Open science & reproducibility in biomedical research
 
   - title: Data and Tech
     description: 
-      - APIs & Workflow Automation
-      - Biostatistics
-      - Machine learning & Statistical Modeling
-      - Database Management
-      - Cluster Computing
-      - Version Control & Collaboration
-      - Data Visualization & Reporting
+      - Biostatistics & machine learning for biological data
+      - Pipeline optimization (APIs, cluster computing, version control)
+      - Database design, curation & integration
 
     images: |
       <style>
@@ -91,12 +87,10 @@ contents:
 
   - title: Project Management
     description: 
-      - Critical Thinking
-      - Problem Solving
-      - Mentoring & Teamwork
-      - Proactive Learner
-      - Adaptability
-      - Time Management
+      - Critical thinking & solution-oriented mindset
+      - Cross-functional collaboration
+      - Mentoring & team leadership
+      - Efficient time and resource management
 
   - title: Communication & Writing
     description: 
