@@ -2,6 +2,10 @@ subject: Skills
 listing-order: 5
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
+  - title: Scientific Skills
+    description: 
+      - Clinical Data Analysis, Multi-omics (Genomics, Transcriptomics, Immunopeptidomics, Single-cell), Research Data Management, Data Governance & Compliance, Open Science Practices
+
   - title: Data and Tech
     description: 
       - APIs & Workflow Automation, Machine learning & Statistical Modeling, Data Visualization & Reporting, Database Management, Cluster Computing, Version Control & Collaboration (Git/GitHub)
@@ -68,10 +72,6 @@ contents:
           <span class="icon-label">MySQL</span>
         </div>
       </div>
-
-  - title: Scientific Skills
-    description: 
-      - Clinical Data Analysis, Multi-omics (Genomics, Transcriptomics, Immunopeptidomics, Single-cell), Research Data Management, Data Governance & Compliance, Open Science Practices
 
   - title: Project Management
     description: 
