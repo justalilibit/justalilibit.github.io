@@ -6,34 +6,34 @@ contents:
     images: |
       <div class="gallery">
           <div class="gallery-item">
-            <a href="#lightbox2.6"><img src="https://justalilibit.github.io/assets/img/Boat_aquarell.jpeg" alt="boat1" style="width:80%;height:auto;"></a>
+            <a href="#lightbox2.6"><img src="https://justalilibit.github.io/assets/img/Boat_aquarell.jpeg" alt="boat1" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.7"><img src="https://justalilibit.github.io/assets/img/boat_aquarell_2.jpeg" alt="boat2" style="width:80%;height:auto;"></a>
+            <a href="#lightbox2.7"><img src="https://justalilibit.github.io/assets/img/boat_aquarell_2.jpeg" alt="boat2" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets/img/pants_acrylq.jpeg" alt="trousers" style="width:130%;height:auto;"></a>
+            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets/img/pants_acrylq.jpeg" alt="trousers" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets/img/holzbrettq.jpg" alt="board" style="width:240%;height:auto;"></a>
+            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets/img/holzbrettq.jpg" alt="board" style="width:100%;height:auto;"></a>
           </div>
       </div>
 
       <!-- Lightbox Modals -->
       <div id="lightbox2.6" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/Boat_aquarell.jpeg" alt="boat">
       </div>
       <div id="lightbox2.7" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/boat_aquarell_2.jpeg" alt="Boat amaya">
       </div>
       <div id="lightbox2.8" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/pants_acryl.jpeg" alt="Holzbrett">
       </div>
       <div id="lightbox2.9" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/holzbrett.jpg" alt="Hose">
       </div>
 
@@ -56,29 +56,29 @@ contents:
             <a href="#lightbox2.4"><img src="https://justalilibit.github.io/assets/img/sailq.jpeg" alt="Catamaran" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.5"><img src="https://justalilibit.github.io/assets/img/volleyq.jpeg" alt="Volley 2024" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.5"><img src="https://justalilibit.github.io/assets/img/volley.jpeg" alt="Volley 2024" style="width:100%;height:auto;"></a>
           </div>
         </div>
       </div>
 
       <!-- Lightbox Modals -->
       <div id="lightbox2.1" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="Ski 2025">
       </div>
       <div id="lightbox2.2" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/Ski_2.jpg" alt="Mountain skiing 2025">
       </div>
       <div id="lightbox2.3" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga">
       </div>
       <div id="lightbox2.4" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/sail.jpeg" alt="Catamaran Baltic Sea">
       </div>
       <div id="lightbox2.5" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/volley.jpeg" alt="Volley Tournament PRBB 2024">
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/volleyq.jpeg" alt="Volley Tournament PRBB 2024">
       </div>

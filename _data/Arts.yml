@@ -17,11 +17,11 @@ contents:
 
       <!-- Lightbox Modals -->
       <div id="lightboxici" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.jpg" alt="Immune Checkpoint inhibitors">
       </div>
       <div id="lightboxtme" class="lightbox">
-        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
         <img src="https://justalilibit.github.io/assets/img/Fig_3_TME.jpg" alt="Tumor microenvironment">
       </div>
 
