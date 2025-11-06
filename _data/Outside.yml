@@ -12,10 +12,10 @@ contents:
             <a href="#lightbox2.7"><img src="https://justalilibit.github.io/assets/img/boat_aquarell_2.jpeg" alt="boat2" style="width:80%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets/img/pants_acryl.jpeg" alt="trousers" style="width:130%;height:auto;"></a>
+            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets/img/pants_acrylq.jpeg" alt="trousers" style="width:130%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets/img/holzbrett.jpg" alt="board" style="width:240%;height:auto;"></a>
+            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets/img/holzbrettq.jpg" alt="board" style="width:240%;height:auto;"></a>
           </div>
       </div>
 
@@ -80,5 +80,5 @@ contents:
       </div>
       <div id="lightbox2.5" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/volley.jpg" alt="Volley Tournament PRBB 2024">
+        <img src="https://justalilibit.github.io/assets/img/volley.jpeg" alt="Volley Tournament PRBB 2024">
       </div>
