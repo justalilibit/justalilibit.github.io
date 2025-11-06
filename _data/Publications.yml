@@ -4,13 +4,13 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Papers
     ref: 
-      - "[1] <b>Boll, L.M.<b>, Vázquez Montes de Oca, S., Camarena, M.E., Castelo, R., Bellmunt, J., Perera-Bel, J., Albà, M.M., “[Predicting immunotherapy response in advanced bladder cancer: a meta-analysis of six independent cohorts](https://www.nature.com/articles/s41467-025-56462-0)“. *Nature Communications*. 2024. doi.org/10.1038/s41467-025-56462-0."
-      - "[2] **Boll, L.M.**, Perera-Bel, J., Rovira, A., Juanpere Rodero, N., Vázquez, S.,  Hernández-Llodrà, S., Lloreta, J., Albà, M.M., Bellmunt J, “[The impact of mutational clonality in predicting the response to immune checkpoint inhibitors in advanced urothelial cancer.](https://www.nature.com/articles/s41598-023-42495-2),” *Scientic Reports*, 2023; doi: 10.1038/s41598-023-42495-2."
-      - "[3] **Boll, L.M.**, Khamirchi, R., Alonso, L., Llurba, E., Óscar, J. P., & Dadvand, P., “[Prenatal Greenspace Exposure and Cord Blood Cortisol Levels](https://pubmed.ncbi.nlm.nih.gov/32822928/),” *Environment International*, 2020; doi: 10.1016/j.envint.2020.106047."
-      - "[4] Sakhvidi, M. J.Z, de Keijzer, C., Bauwelinck, M., **Boll, L.M.**, Knobel, P., Jacquemin, B., Dadvand, P. , “[Greenspace exposure and children behavior: A systematic review](https://pubmed.ncbi.nlm.nih.gov/35134416/),” *Sci Total Environ*, 2022; doi: 10.1016/j.scitotenv.2022.153608."
+      - "<strong>Boll, L.M.</strong>, Vázquez Montes de Oca, S., Camarena, M.E., Castelo, R., Bellmunt, J., Perera-Bel, J., Albà, M.M., “[Predicting immunotherapy response in advanced bladder cancer: a meta-analysis of six independent cohorts](https://www.nature.com/articles/s41467-025-56462-0)“. *Nature Communications*. 2024. doi.org/10.1038/s41467-025-56462-0."
+      - "<strong>Boll, L.M.</strong>, Perera-Bel, J., Rovira, A., Juanpere Rodero, N., Vázquez, S.,  Hernández-Llodrà, S., Lloreta, J., Albà, M.M., Bellmunt J, “[The impact of mutational clonality in predicting the response to immune checkpoint inhibitors in advanced urothelial cancer.](https://www.nature.com/articles/s41598-023-42495-2),” *Scientic Reports*, 2023; doi: 10.1038/s41598-023-42495-2."
+      - "<strong>Boll, L.M.</strong>, Khamirchi, R., Alonso, L., Llurba, E., Óscar, J. P., & Dadvand, P., “[Prenatal Greenspace Exposure and Cord Blood Cortisol Levels](https://pubmed.ncbi.nlm.nih.gov/32822928/),” *Environment International*, 2020; doi: 10.1016/j.envint.2020.106047."
+      - "Sakhvidi, M. J.Z, de Keijzer, C., Bauwelinck, M., <strong>Boll, L.M.</strong>, Knobel, P., Jacquemin, B., Dadvand, P. , “[Greenspace exposure and children behavior: A systematic review](https://pubmed.ncbi.nlm.nih.gov/35134416/),” *Sci Total Environ*, 2022; doi: 10.1016/j.scitotenv.2022.153608."
   - title: Scientific Talks  
     description:
-      - "Bladder Research Monthly Meeting, Harvard Dana–Farber Cancer Institute, Online, 29th of Oct 2025."
+      - "DFCI Harvard Bladder Research Monthly Meeting, Online, 29th of Oct 2025."
       - "European Association for Cancer Research (EACR), Barcelona, Spain, 13th of May 2025."
       - "PRBB Computational Genomics Symposium, St Feliu de Guíxols, Spain, 28th of April 2025."
       - "PRBB Computational Genomics Seminars, Barcelona, Spain, 4th of April 2024."
@@ -22,7 +22,7 @@ contents:
             <td><img src="https://justalilibit.github.io/assets/img/EACR_2025_2.jpeg" alt="EACR discussion" style="width:500px;height:auto;"></td>
           </tr>
         </table>
-  - title: Poster Presentation
+  - title: Poster Presentations
     ref:
       - "EMBL Cancer Genomics Conference, Heidelberg, Germany, 16th of November 2023"
       - "PRBB Computational Genomics Symposium,  St Feliu de Guíxols, Spain, 13th of April 2023"
@@ -34,7 +34,7 @@ contents:
       <table>
         <tr>
           <td><img src="https://justalilibit.github.io/assets/img/Poster_ECCB.jpeg" alt="EcCb poster" style="width:320px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/EACR_poster_s.png" alt="EACR poster" style="width:390px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets/img/EACR_poster_s.png" alt="EACR poster" style="width:320px;height:auto;"></td>
           <td><img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
         </tr>
       </table>
