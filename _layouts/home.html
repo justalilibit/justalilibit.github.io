@@ -151,5 +151,27 @@
   </div>
 
 </body>
+ 
 <script src="{{ '/assets/js/main.js' | prepend: site.baseurl }}"></script>
+<script>
+  // Open external links in a new tab and add safe rel attributes
+  document.addEventListener('DOMContentLoaded', function () {
+    const hostname = location.hostname;
+    document.querySelectorAll('a[href]').forEach(a => {
+      try {
+        const url = new URL(a.href, location.href);
+        // If you want only external links:
+        if (url.hostname !== hostname) {
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', 'noopener noreferrer');
+        }
+        // If you want ALL links to open in a new tab, use:
+        // a.setAttribute('target', '_blank');
+        // a.setAttribute('rel', 'noopener noreferrer');
+      } catch (e) {
+        // ignore invalid URLs (e.g. mailto:, javascript:)
+      }
+    });
+  });
+</script>
 </html>
