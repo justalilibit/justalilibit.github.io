@@ -8,10 +8,10 @@ contents:
           <!-- Single Row -->
           <div class="gallery-row">
             <div class="gallery-item">
-              <a href="#lightboxici"><img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors";"></a>
+              <a href="#lightboxici"><img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors"></a>
             </div>
             <div class="gallery-item">
-              <a href="#lightboxtme"><img src="https://justalilibit.github.io/assets/img/Fig_3_TME.svg" alt="Tumor microenvironment" ;"></a>
+              <a href="#lightboxtme"><img src="https://justalilibit.github.io/assets/img/Fig_3_TME.svg" alt="Tumor microenvironment"></a>
             </div>
           </div>
 
