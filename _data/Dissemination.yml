@@ -3,32 +3,25 @@ listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
   - title: "International Day of Women and Girls in Science, Barcelona"
-    description: 
-      - 2 hours of Experiments with Students of 6 to 8 years old - in Spanish.
+    description: 2 hours of Experiments with Students of 6 to 8 years old - in Spanish.
     date: Mar 8th 2025
   - title: "European Researcher's Night, Barcelona"
-    description: 
-      - 10 min Flash Talk about my PhD to the general public - in Spanish.
+    description: 10 min Flash Talk about my PhD to the general public - in Spanish.
     date: Sep 27th 2024
   - title: "Research in 4Min Finals, UPF Barcelona"
-    description: 
-      - 4 min presentation of the PhD thesis to the general public - in English.
+    description: 4 min presentation of the PhD thesis to the general public - in English.
     date: May 9th 2024
   - title: "International Day of Women and Girls in Science, Mataró"
-    description: 
-      - One hour talk with school children of 13 years old, explaining the basics of bioinformatics research - in Spanish.
+    description: One hour talk with school children of 13 years old, explaining the basics of bioinformatics research - in Spanish.
     date: Feb 7th 2024
   - title: "OpenPRBB 2023, Barcelona" 
-    description: 
-      - 20 min Presentation to the general public about my work as a Bioinformatician - in English.
+    description:  20 min Presentation to the general public about my work as a Bioinformatician - in English.
     date: Oct 7th 2023
   - title: "International Day of Women and Girls in Science, Orlot " 
-    description: 
-      - One hour online presentation for young adults about my work as a female scientist - in Spanish.
+    description:  One hour online presentation for young adults about my work as a female scientist - in Spanish.
     date: Feb 7th 2022
   - title: "European Researcher's Night, Barcelona" 
-    description: 
-      - 10 min Flash Talk about my PhD to the general public - in Spanish.
+    description:  10 min Flash Talk about my PhD to the general public - in Spanish.
     date: Sep 24th 2021
 
     images: |

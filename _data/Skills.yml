@@ -91,11 +91,19 @@ contents:
 
   - title: Project Management
     description: 
-      - Critical Thinking, Problem Solving,  Mentoring, Proactive Learner, Adaptability, Teamwork, Time Management
+      - Critical Thinking
+      - Problem Solving
+      - Mentoring & Teamwork
+      - Proactive Learner
+      - Adaptability
+      - Time Management
 
   - title: Communication & Writing
     description: 
-      - Scientific Writing and Storytelling, Public Speaking, Illustration & Animation Software, Social Media Management
+      - Scientific Writing and Storytelling
+      - Public Speaking
+      - Illustration & Animation Software
+      - Social Media Management
 
   - image: |
       <div class="icons-section">
