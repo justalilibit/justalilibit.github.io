@@ -5,17 +5,21 @@ contents:
   - title: "Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona"
     role: PhD Student with <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's group</a>.
     description:
-      - "Led real-world data projects integrating clinical and multi-omics datasets from hospitals, consortia, and industry to identify novel biomarkers."
-      - "Designed and analyzed studies, ensured data harmonization and quality control, and generated robust evidence."
-      - "Collaborated with clinicians and cross-functional teams to translate findings into clinical insights." 
+      - "Conducted research in oncology and immunotherapy, integrating clinical and multi-omics data for biomarker discovery."
+      - "Handled multi-task projects, balancing data generation and analysis, publication, and presentations ensuring deadlines were met."
+      - "Managed big datasets, ensured data harmonization and quality control, and generated robust evidence."
+      - "Collaborated with clinicians and cross-functional teams to translate findings into meaningful insights." 
       - "Mentored junior researchers, both persuing a PhD now."
-      - "Thesis >> Decoding Immune Checkpoint Inhibitor Response: Biomarker discovery and Prediction Modeling through Multi-Omics Analyses  << under the supervision of M.Mar Albà. <a href=\"https://justalilibit.github.io/assets/pdf/Thesis_BOLL_17Apr2025.pdf\" target=\"_blank\">Read here</a>!"
+      - "Presented work to scientific and public audiences."
+      - "Two first-author publications in Nature Communication and Scientific Reports."
+      - "<a href=\"https://justalilibit.github.io/assets/pdf/Thesis_BOLL_17Apr2025.pdf\" target=\"_blank\">Check out my thesis here</a>!"
     date: Nov. 2021 - Jul. 2025
 
   - title: "Research Stay at Vall d'Hebron Oncology Institute (VHIO), Barcelona"
     role: Visiting PhD Student
     description: 
-      - "Experience in immunopeptidomics and survival data during a 4 week stay in the <a href=\"https://vhio.net/pf/computational-immunogenomics-group/\" target=\"_blank\">Computational Immunogenomics Group</a> under Francisco Martínez Jiménez and the <a href=\"https://vhio.net/pf/cancer-computational-biology-group/\" target=\"_blank\">Cancer Computational Biology Group</a> under José Antonio Seoane."
+      - "Experience in immunopeptidomics and survival data during a 4 week stay in the groups of Francisco Martínez Jiménez(<a href=\"https://vhio.net/pf/computational-immunogenomics-group/\" target=\"_blank\">Computational Immunogenomics Group</a>) and José Antonio Seoane(<a href=\"https://vhio.net/pf/cancer-computational-biology-group/\" target=\"_blank\">Cancer Computational Biology Group</a>)."
+      - "Demonstrated adaptability, integrating rapidly into new environments."
     date: July 2024
 
   # - title: "Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona"
@@ -29,7 +33,7 @@ contents:
     description: 
       - Analyzed epidemiological datasets on prenatal greenspace exposure and child health outcomes.
       - Applied statistical programming and causal inference methods to account for socio-economic and cultural factors.
-      - Contributed to publications and multi-disciplinary collaborative reviews.
+      - First-author publication and contributed to a multi-disciplinary review.
     date: Sep. 2019 - Feb. 2020
 
   - title: Cell Biology, Philipps Universität, Marburg
