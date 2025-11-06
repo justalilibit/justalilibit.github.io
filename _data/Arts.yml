@@ -2,7 +2,20 @@ subject: Science and Art
 listing-order: 8
 icon: "/assets/img/paintbrush.svg"
 contents:
-  - title: "Animations of immune checkpoint inhibitors"
+  - title: "Figures for Doctoral Thesis"
+    description: |
+      <div class="gallery">
+          <!-- Single Row -->
+          <div class="gallery-row">
+            <div class="gallery-item">
+              <a href="#lightboxici"><img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.pdf" alt="Immune Checkpoint inhibitors" style="width:100%;height:auto;"></a>
+            </div>
+            <div class="gallery-item">
+              <a href="#lightboxtme"><img src="https://justalilibit.github.io/assets/img/Fig_3_TME.pdf" alt="Tumor microenvironment" style="width:80%;height:auto;"></a>
+            </div>
+          </div>
+
+  - title: "Animation of immune checkpoint inhibitors"
     description: |
       <div style="display:flex; gap:20px;">
         <video width="500" style="height:auto;" controls>
