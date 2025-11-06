@@ -5,9 +5,7 @@ contents:
   - title: Data and Tech
     description: 
       - APIs & Workflow Automation, Machine learning & Statistical Modeling, Data Visualization & Reporting, Database Management, Cluster Computing, Version Control & Collaboration (Git/GitHub)
-
-  - title: Programming Languages
-    description: |
+    images: |
       <style>
         .icon-container {
           display: inline-block;
@@ -77,14 +75,13 @@ contents:
 
   - title: Project Management
     description: 
-      - Critical Thinking, Problem Solving, Adaptability, Teamwork, Multi-Partner Coordination, Grant Writing Support, Time Management, Attention to Detail
+      - Critical Thinking, Problem Solving,  Mentoring, Proactive Learner, Adaptability, Teamwork, Time Management
 
   - title: Communication & Writing
     description: 
-      - Scientific Writing, Data Storytelling, Presentation Design, Public Speaking, Social Media for Science Communication
+      - Scientific Writing, Data Storytelling, Public Speaking, Illustration & Animation Software, Social Media Management
 
-  - title: Arts & Design
-    description: |
+  - image: |
       <div class="icons-section">
         <!-- Affinity -->
         <div class="icon-container">
