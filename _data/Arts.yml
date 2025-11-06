@@ -3,7 +3,7 @@ listing-order: 8
 icon: "/assets/img/paintbrush.svg"
 contents:
   - title: "Figures for Doctoral Thesis"
-    description: |
+    image: |
       <div class="gallery">
           <!-- Single Row -->
           <div class="gallery-row">
