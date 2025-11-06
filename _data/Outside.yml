@@ -38,11 +38,17 @@ contents:
       </div>
 
 
-  - title: "In my freetime, you'll find me outdoors. Climbing, beach volley, skiing, sailing. I love learning new sports and exploring nature."
+  - title: "In my free time, you'll find me outdoors, chasing a bit of adrenaline and balance from Barcelona's city buzz. And yes, I built my own van for the full experience!!"
     images: |
       <div class="gallery">
         <!-- First Row -->
         <div class="gallery-row">
+          <div class="gallery-item">
+            <a href="#lightbox2.3"><img src="https://justalilibit.github.io/assets/img/chorroq.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
+          </div>
+          <div class="gallery-item">
+            <a href="#lightbox2.5"><img src="https://justalilibit.github.io/assets/img/volley.jpeg" alt="Volley 2024" style="width:100%;height:auto;"></a>
+          </div>
           <div class="gallery-item">
             <a href="#lightbox2.1"><img src="https://justalilibit.github.io/assets/img/Ski_1q.jpeg" alt="Gargellen 2025" style="width:100%;height:auto;"></a>
           </div>
@@ -50,13 +56,7 @@ contents:
             <a href="#lightbox2.2"><img src="https://justalilibit.github.io/assets/img/Ski_2q.jpg" alt="Mountain tour 2025" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.3"><img src="https://justalilibit.github.io/assets/img/chorroq.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
             <a href="#lightbox2.4"><img src="https://justalilibit.github.io/assets/img/sailq.jpeg" alt="Catamaran" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
-            <a href="#lightbox2.5"><img src="https://justalilibit.github.io/assets/img/volley.jpeg" alt="Volley 2024" style="width:100%;height:auto;"></a>
           </div>
         </div>
       </div>
