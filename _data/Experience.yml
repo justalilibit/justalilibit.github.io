@@ -2,8 +2,8 @@ subject: Experiences
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: "Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona"
-    role: PhD Student with <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's group</a>.
+  - title: PhD Researcher
+    role:  <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's</a> Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona
     description:
       - "Conducted research in oncology and immunotherapy, integrating clinical and multi-omics data for biomarker discovery."
       - "Handled multi-task projects, balancing data generation and analysis, publication, and presentations ensuring deadlines were met."
@@ -15,8 +15,8 @@ contents:
       - "<a href=\"https://justalilibit.github.io/assets/pdf/Thesis_BOLL_17Apr2025.pdf\" target=\"_blank\">Check out my thesis here</a>!"
     date: Nov. 2021 - Jul. 2025
 
-  - title: "Research Stay at Vall d'Hebron Oncology Institute (VHIO), Barcelona"
-    role: Visiting PhD Student
+  - title: Visiting Researcher
+    role: Vall d'Hebron Oncology Institute (VHIO), Barcelona
     description: 
       - "Experience in immunopeptidomics and survival data during a 4 week stay in the groups of Francisco Martínez Jiménez(<a href=\"https://vhio.net/pf/computational-immunogenomics-group/\" target=\"_blank\">Computational Immunogenomics Group</a>) and José Antonio Seoane(<a href=\"https://vhio.net/pf/cancer-computational-biology-group/\" target=\"_blank\">Cancer Computational Biology Group</a>)."
       - "Demonstrated adaptability, integrating rapidly into new environments."
@@ -28,34 +28,36 @@ contents:
   #     - For my master thesis in Bioinformatic and in preparation for my PhD, I joined <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's group</a> to learn about genomic research on biomarkers in immunotherapy.
   #   date: Sep. 2021 - Nov. 2022
 
-  - title: Urban Planning and Environmental Health, ISGlobal, Barcelona
-    role: Research Assistant
+  - title: M.Sc Internship
+    role: Urban Planning and Environmental Health, ISGlobal, Barcelona
     description: 
       - Analyzed epidemiological datasets on prenatal greenspace exposure and child health outcomes.
       - Applied statistical programming and causal inference methods to account for socio-economic and cultural factors.
       - First-author publication and contributed to a multi-disciplinary review.
     date: Sep. 2019 - Feb. 2020
 
-  - title: Cell Biology, Philipps Universität, Marburg
-    role: Research Assistant
+  - title: B.Sc Internship
+    role: Cell Biology, Philipps Universität, Marburg
     description: 
       - Applied wet lab lab techniques and live-cell imagining and fluorescence microscopy during a 6 months stay at Prof. Ralf Jacob's group.
       - Learned to structure own projects from the first idea to their implementation.
     date: Jan. 2018 - Jul. 2018
     
-  - title: iSCB Student Council
-    role: Volunteer in the Design Committee
+  - title: Design Committee Member
+    role: iSCB Student Council
     description:
       - Promoted the Student Council Symposium 2024 on among early-career scientist, designing social media posts, posters and merch (<a href="https://www.instagram.com/iscb_sc/" target="_blank">Check out the iSCB instagram</a>).
     date: Jan. -  Jul. 2024
 
   - title: "Courses"
     description: 
-      - "NGS - Genome variant analysis by SIB Swiss Institute of Bioinformatics (Mar 2022)"
-      - "Research Integrity by SIRIS Academy (Feb 2022)"
-      - "Teamwork and Collaborative Intelligence by SIRIS Academy (Feb 2022)"
-      - "Public Speaking by Big Van Science (Feb 2022)"
-      - "Scientific Writing by Scienseed (Feb 2022)"
-      - "Open Science by SIRIS Academy (May 2023)"
-      - "Scientific Communication by Scienseed (May 2023)"
-      - "Good Scientific Practice by UPF, PhD in Biomedicine (Dec 2021)"
+      - "<strong>Scientific Communication</strong> by Scienseed (May 2023)"
+      - "<strong>Open Science</strong> by SIRIS Academy (May 2023)"
+      - "<strong>Advanced Course on Immunity and Cancer Immunotherapy</strong> by Institut Curie (Jun 2022"
+      - "<strong>Cancer Genomics Course</strong> by EMBL (Jun 2022)"
+      - "<strong>NGS - Genome variant analysis</strong> by the Swiss Institute of Bioinformatics (Mar 2022)"
+      - "<strong>Research Integrity</strong> by SIRIS Academy (Feb 2022)"
+      - "<strong>Teamwork and Collaborative Intelligence</strong> by SIRIS Academy (Feb 2022)"
+      - "<strong>Public Speaking</strong> by Big Van Science (Feb 2022)"
+      - "<strong>Scientific Writing</strong> by Scienseed (Feb 2022)"
+      - "<strong>Good Scientific Practice</strong> by UPF, PhD in Biomedicine (Dec 2021)"
