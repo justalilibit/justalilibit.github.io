@@ -4,11 +4,11 @@ icon: "/assets/img/flask.svg"
 contents:
   - title: Papers
     ref: 
-      - Boll, L.M., Vázquez Montes de Oca, S., Camarena, M.E., Castelo, R., Bellmunt, J., Perera-Bel, J., Albà, M.M., <a href="https://www.nature.com/articles/s41467-025-56462-0" target="_blank">Predicting immunotherapy response in advanced bladder cancer: a meta-analysis of six independent cohorts</a>. *Nature Communications*. 2024. doi.org/10.1038/s41467-025-56462-0.
-      - Boll, L.M., Perera-Bel, J., Rovira, A., Juanpere Rodero, N., Vázquez, S.,  Hernández-Llodrà, S., Lloreta, J., Albà, M.M., Bellmunt J,  <a href="https://www.nature.com/articles/s41598-023-42495-2" target="_blank">The impact of mutational clonality in predicting the response to immune checkpoint inhibitors in advanced urothelial cancer</a>, *Scientific Reports*, 2023; doi: 10.1038/s41598-023-42495-2.
-      - Boll, L.M., Khamirchi, R., Alonso, L., Llurba, E., Óscar, J. P., & Dadvand, P., <a href="https://pubmed.ncbi.nlm.nih.gov/32822928/" target="_blank">Prenatal Greenspace Exposure and Cord Blood Cortisol Levels</a>, *Environment International*, 2020; doi: 10.1016/j.envint.2020.106047.
-      - Sakhvidi, M. J.Z, de Keijzer, C., Bauwelinck, M., Boll, L.M., Knobel, P., Jacquemin, B., Dadvand, P. , <a href="https://pubmed.ncbi.nlm.nih.gov/35134416/" target="_blank">Greenspace exposure and children behavior: A systematic review</a>, *Sci Total Environ*, 2022; doi: 10.1016/j.scitotenv.2022.153608.
-  - title: Scientific Talks  
+      - "Boll, L.M., Vázquez Montes de Oca, S., Camarena, M.E., Castelo, R., Bellmunt, J., Perera-Bel, J., Albà, M.M., <a href='https://www.nature.com/articles/s41467-025-56462-0' target='_blank'>Predicting immunotherapy response in advanced bladder cancer: a meta-analysis of six independent cohorts</a>. *Nature Communications*. 2024. doi.org/10.1038/s41467-025-56462-0."
+      - "Boll, L.M., Perera-Bel, J., Rovira, A., Juanpere Rodero, N., Vázquez, S., Hernández-Llodrà, S., Lloreta, J., Albà, M.M., Bellmunt J, <a href='https://www.nature.com/articles/s41598-023-42495-2' target='_blank'>The impact of mutational clonality in predicting the response to immune checkpoint inhibitors in advanced urothelial cancer</a>, *Scientific Reports*, 2023; doi: 10.1038/s41598-023-42495-2."
+      - "Boll, L.M., Khamirchi, R., Alonso, L., Llurba, E., Óscar, J. P., & Dadvand, P., <a href='https://pubmed.ncbi.nlm.nih.gov/32822928/' target='_blank'>Prenatal Greenspace Exposure and Cord Blood Cortisol Levels</a>, *Environment International*, 2020; doi: 10.1016/j.envint.2020.106047."
+      - "Sakhvidi, M. J.Z, de Keijzer, C., Bauwelinck, M., Boll, L.M., Knobel, P., Jacquemin, B., Dadvand, P., <a href='https://pubmed.ncbi.nlm.nih.gov/35134416/' target='_blank'>Greenspace exposure and children behavior: A systematic review</a>, *Sci Total Environ*, 2022; doi: 10.1016/j.scitotenv.2022.153608."
+  - title: Scientific Talks
     description:
       - "DFCI Harvard Bladder Research Monthly Meeting, Online, 29th of Oct 2025."
       - "European Association for Cancer Research (EACR), Barcelona, Spain, 13th of May 2025."
