@@ -15,6 +15,16 @@ contents:
             </div>
           </div>
 
+      <!-- Lightbox Modals -->
+      <div id="lightboxici" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors">
+      </div>
+      <div id="lightboxtme" class="lightbox">
+        <span class="lightbox-close" onclick="window.location='#'">&times;</span>
+        <img src="https://justalilibit.github.io/assets/img/Fig_3_TME.svg" alt="Tumor microenvironment">
+      </div>
+
   - title: "Animation of immune checkpoint inhibitors"
     description: |
       <div style="display:flex; gap:20px;">
