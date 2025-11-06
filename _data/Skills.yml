@@ -79,7 +79,7 @@ contents:
 
   - title: Communication & Writing
     description: 
-      - Scientific Writing, Data Storytelling, Public Speaking, Illustration & Animation Software, Social Media Management
+      - Scientific Writing and Storytelling, Public Speaking, Illustration & Animation Software, Social Media Management
 
   - image: |
       <div class="icons-section">
@@ -95,6 +95,12 @@ contents:
           <span class="icon-label">MOHO</span>
         </div>       
 
+        <!-- Canva -->
+        <div class="icon-container">
+          <img src="https://justalilibit.github.io/assets/img/canva.svg" alt="Canva">
+          <span class="icon-label">Canva</span>
+        </div>
+        
         <!-- Illustrator -->
         <div class="icon-container">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" alt="Illustrator">
