@@ -84,7 +84,7 @@ contents:
         <!-- First Row -->
         <div class="gallery-row">
           <div class="gallery-item">
-            <a href="#lightbox1"><img src="https://justalilibit.github.io/assets/img/Rin4min-2.jpeg" alt="Rin4min Finals 2024" style="width:100%;height:auto;"></a>
+            <a href="#lightbox1"><img src="https://justalilibit.github.io/assets/img/Rin4min-2.jpg" alt="Rin4min Finals 2024" style="width:100%;height:auto;"></a>
           </div>
 
           <div class="gallery-item">
@@ -92,7 +92,7 @@ contents:
           </div>
 
           <div class="gallery-item">
-            <a href="#lightbox3"><img src="https://justalilibit.github.io/assets/img/eurResNight2024-2.jpeg" alt="European Researchers Night 2024" style="width:100%;height:auto;"></a>
+            <a href="#lightbox3"><img src="https://justalilibit.github.io/assets/img/eurResNight2024-2.jpg" alt="European Researchers Night 2024" style="width:100%;height:auto;"></a>
           </div>
   
           <div class="gallery-item">
