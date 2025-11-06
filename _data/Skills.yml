@@ -54,7 +54,7 @@ contents:
 
         <!-- SLURM -->
         <div class="icon-container">
-          <img src="/Users/lilianboll/Documents/github.io/justalilibit.github.io/assets/img/Slurm_logo.svg" alt="Slurm(HPC)">
+          <img src="https://justalilibit.github.io/assets/img/Slurm_logo.svg" alt="Slurm(HPC)">
           <span class="icon-label">Slurm</span>
         </div>
 
@@ -94,7 +94,7 @@ contents:
 
         <!-- Moho -->
         <div class="icon-container">
-          <img src="https://justalilibit.github.io/assets/img/moho.jpg" alt="Moho">
+          <img src="https://justalilibit.github.io/assets/img/moho.pdf" alt="Moho">
           <span class="icon-label">MOHO</span>
         </div>       
 
