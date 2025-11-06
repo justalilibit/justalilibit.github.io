@@ -4,11 +4,21 @@ icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Scientific Skills
     description: 
-      - Clinical Data Analysis, Multi-omics (Genomics, Transcriptomics, Immunopeptidomics, Single-cell), Research Data Management, Data Governance & Compliance, Open Science Practices
+      - Clinical Data Analysis
+      - Multi-omics (Genomics, Transcriptomics, Immunopeptidomics, Single-cell)
+      - Research Data Management, Data Governance & Compliance
+      - Open Science Practices
 
   - title: Data and Tech
     description: 
-      - APIs & Workflow Automation, Machine learning & Statistical Modeling, Data Visualization & Reporting, Database Management, Cluster Computing, Version Control & Collaboration (Git/GitHub)
+      - APIs & Workflow Automation
+      - Biostatistics
+      - Machine learning & Statistical Modeling
+      - Database Management
+      - Cluster Computing
+      - Version Control & Collaboration
+      - Data Visualization & Reporting
+
     images: |
       <style>
         .icon-container {
@@ -58,6 +68,12 @@ contents:
         <div class="icon-container">
           <img src="https://justalilibit.github.io/assets/img/Slurm_logo.svg" alt="Slurm(HPC)">
           <span class="icon-label">Slurm</span>
+        </div>
+
+        <!-- Git -->
+        <div class="icon-container">
+          <img src="https://justalilibit.github.io/assets/img/github.svg" alt="Git">
+          <span class="icon-label">Git</span>
         </div>
 
         <!-- HTML5 -->

@@ -2,22 +2,26 @@ subject: Education
 listing-order: 3
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: PhD in Bioinformatics, Universidad Pompeu Fabra, Barcelona
+  - title: PhD in Bioinformatics
+    role: Universidad Pompeu Fabra, Barcelona, Spain
     description:
     - Awarded laCaixa INPhINIT Fellowship (6.5% success rate)
     - Dissertation focused on biomarker discovery and predicting immunotherapy response using big multi-omics and clinical data (<a href='https://justalilibit.github.io/assets/pdf/Thesis_BOLL_17Apr2025.pdf' target='_blank'>Read here</a>!").
-    - Thanks to the support of my wonderful supervisor <a href='https://albagroup.upf.edu/people/alba-m' target='_blank'>M. Mar Albà</a>.
-  - title: MSc in Bioinformatics, Universidad Pompeu Fabra, Barcelona
+    - Big thanks to my wonderful supervisor <a href='https://albagroup.upf.edu/people/alba-m' target='_blank'>M. Mar Albà</a>!
+  - title: Bioinformatics(M.Sc.)
+    role: Universidad Pompeu Fabra, Barcelona, Spain
     description:
     - Graduated with Honorable Mention for my thesis on immunotherapy response in urothelial cancer.  
     - Awarded VHIO Computational Oncology Master Thesis Award (2nd place).
     date: Sep. 2020 - Jul. 2022
-  - title: MSc in Public Health, University of Southern Denmark, Esbjerg
+  - title: Public Health (M.Sc.)
+    role: University of Southern Denmark, Esbjerg, Denmark
     description:
     - Graduated with Honorable Mention for my thesis on the effect of greenspaces on stress levels during pregnancy.
     - Awarded ERASMUS+ to conduct internship abroad at ISGlobal, Barcelona.  
     date: Sep. 2018 - Jul. 2020
-  - title: BSc in Biomedical Science, Philipps Universität, Marburg
+  - title: Biomedical Science (B.Sc.)
+    role: Philipps Universität, Marburg, Germany
     description:
     - Built strong biomedical understanding and basic wet lab experience.
     date: Sep. 2015 - Jul. 2018
