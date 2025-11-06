@@ -8,7 +8,7 @@ contents:
           <!-- Single Row -->
           <div class="gallery-row">
             <div class="gallery-item">
-              <a href="#lightboxici"><img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors" style="width:230%;height:auto;"></a>
+              <a href="#lightboxici"><img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors" style="width:530%;height:auto;"></a>
             </div>
             <div class="gallery-item">
               <a href="#lightboxtme"><img src="https://justalilibit.github.io/assets/img/Fig_3_TME.svg" alt="Tumor microenvironment" style="width:90%;height:auto;"></a>
@@ -18,11 +18,11 @@ contents:
       <!-- Lightbox Modals -->
       <div id="lightboxici" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors">
+        <img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.jpg" alt="Immune Checkpoint inhibitors">
       </div>
       <div id="lightboxtme" class="lightbox">
         <span class="lightbox-close" onclick="window.location='#'">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Fig_3_TME.svg" alt="Tumor microenvironment">
+        <img src="https://justalilibit.github.io/assets/img/Fig_3_TME.jpg" alt="Tumor microenvironment">
       </div>
 
   - title: "Animation of immune checkpoint inhibitors"
