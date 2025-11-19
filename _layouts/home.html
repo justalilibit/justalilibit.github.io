@@ -15,7 +15,7 @@
 
   <link rel="icon" type="image/png" href="{{ site.icon_img | prepend: site.baseurl }}">
   <link rel="shortcut icon" type="image/png" href="{{ site.icon_img | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/assets.nosync/css/style.css' | prepend: site.baseurl }}">
   <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
 </head>
 
@@ -29,67 +29,67 @@
       <ul class="personal-info">
         {% if site.phone_number %}
         <li><a aria-label="My Phone">
-          <img src="{{ '/assets/img/phone.svg' | prepend: site.baseurl }}" alt="My Phone Number">
+          <img src="{{ '/assets.nosync/img/phone.svg' | prepend: site.baseurl }}" alt="My Phone Number">
           <div><span>{{ site.phone_number }}</span></div>
         </a></li>
         {% endif %}
         {% if site.address %}
         <li><a aria-label="My Address" href="https://www.google.com/maps/search/{{ site.address }}">
-          <img src="{{ '/assets/img/location-dot.svg' | prepend: site.baseurl }}" alt="My Address">
+          <img src="{{ '/assets.nosync/img/location-dot.svg' | prepend: site.baseurl }}" alt="My Address">
           <div><span>{{ site.address }}</span></div>
         </a></li>
         {% endif %}
         {% if site.email %}
           <li><a aria-label="My Email" href="mailto:{{ site.email }}">
-            <img src="{{ '/assets/img/envelope.svg' | prepend: site.baseurl }}" alt="My Email">
+            <img src="{{ '/assets.nosync/img/envelope.svg' | prepend: site.baseurl }}" alt="My Email">
             <div><span>{{ site.email }}</span></div>
           </a></li>
         {% endif %}
         {% if site.linkedin_username %}
           <li><a aria-label="My LinkedIn" href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-            <img src="{{ '/assets/img/linkedin.svg' | prepend: site.baseurl }}" alt="My LinkedIn">
+            <img src="{{ '/assets.nosync/img/linkedin.svg' | prepend: site.baseurl }}" alt="My LinkedIn">
             <div><span>@{{ site.linkedin_username }}</span></div>
           </a></li>
         {% endif %}
         {% if site.ORCID_username %}
           <li><a aria-label="My ORCID" href="https://orcid.org/{{ site.ORCID_username }}">
-            <img src="{{ '/assets/img/ORCID.svg' | prepend: site.baseurl }}" alt="My ORCID">
+            <img src="{{ '/assets.nosync/img/ORCID.svg' | prepend: site.baseurl }}" alt="My ORCID">
             <div><span>ORCID: {{ site.ORCID_username }}</span></div>
           </a></li>
         {% endif %}
         {% if site.github_username %}
           <li><a aria-label="My Github" href="https://github.com/{{ site.github_username }}">
-            <img src="{{ '/assets/img/github.svg' | prepend: site.baseurl }}" alt="My Github">
+            <img src="{{ '/assets.nosync/img/github.svg' | prepend: site.baseurl }}" alt="My Github">
             <div><span>@{{ site.github_username }}</span></div>
           </a></li>
         {% endif %}
         {% if site.twitter_username %}
           <li><a aria-label="My Twitter" href="https://twitter.com/{{ site.twitter_username }}">
-            <img src="{{ '/assets/img/twitter.svg' | prepend: site.baseurl }}" alt="My Twitter">
+            <img src="{{ '/assets.nosync/img/twitter.svg' | prepend: site.baseurl }}" alt="My Twitter">
             <div><span>@{{ site.twitter_username }}</span></div>
           </a></li>
         {% endif %}
         {% if site.instagram_username %}
           <li><a aria-label="My Instagram" href="https://www.instagram.com/{{ site.instagram_username }}">
-            <img src="{{ '/assets/img/instagram.svg' | prepend: site.baseurl }}" alt="My Instagram">
+            <img src="{{ '/assets.nosync/img/instagram.svg' | prepend: site.baseurl }}" alt="My Instagram">
             <div><span>@{{ site.instagram_username }}</span></div>
           </a></li>
         {% endif %}
         {% if site.youtube_username %}
           <li><a aria-label="My Youtube" href="https://www.youtube.com/{{ site.youtube_username }}">
-            <img src="{{ '/assets/img/youtube.svg' | prepend: site.baseurl }}" alt="My Youtube">
+            <img src="{{ '/assets.nosync/img/youtube.svg' | prepend: site.baseurl }}" alt="My Youtube">
             <div><span>@{{ site.youtube_username }}</span></div>
           </a></li>
         {% endif %}
         {% if site.CV_pdf %}
-          <li><a aria-label="My cv" href="https://justalilibit.github.io/assets/pdf/CV_BOLL_LilianMarie.pdf">
-            <img src="{{ '/assets/img/CV.svg' | prepend: site.baseurl }}" alt="My CV">
+          <li><a aria-label="My cv" href="https://justalilibit.github.io/assets.nosync/pdf/CV_BOLL_LilianMarie.pdf">
+            <img src="{{ '/assets.nosync/img/CV.svg' | prepend: site.baseurl }}" alt="My CV">
             <div><span>{{ site.CV_pdf }}</span></div>
           </a></li>
         {% endif %}
         {% if site.blog_url %}
           <li><a aria-label="My Blog" href="{{ site.blog_url }}">
-            <img src="{{ '/assets/img/house.svg' | prepend: site.baseurl }}" alt="My Blog">
+            <img src="{{ '/assets.nosync/img/house.svg' | prepend: site.baseurl }}" alt="My Blog">
             <div><span>{{ site.blog_url }}</span></div>
           </a></li>
         {% endif %}
@@ -117,7 +117,7 @@
                     {{ member.title | markdownify }}
                     {% if member.date %}
                       <span class="content-date">
-                        <img src="{{ '/assets/img/calendar.webp' | prepend: site.baseurl}}" alt="date">
+                        <img src="{{ '/assets.nosync/img/calendar.webp' | prepend: site.baseurl}}" alt="date">
                         {{ member.date }}
                       </span>
                     {% endif %}
@@ -152,7 +152,7 @@
 
 </body>
  
-<script src="{{ '/assets/js/main.js' | prepend: site.baseurl }}"></script>
+<script src="{{ '/assets.nosync/js/main.js' | prepend: site.baseurl }}"></script>
 <script>
   // Open external links in a new tab and add safe rel attributes
   document.addEventListener('DOMContentLoaded', function () {

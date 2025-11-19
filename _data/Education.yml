@@ -1,12 +1,12 @@
 subject: Education
 listing-order: 3
-icon: "/assets/img/graduation-cap.svg"
+icon: "/assets.nosync/img/graduation-cap.svg"
 contents:
   - title: PhD in Bioinformatics
     role: Universidad Pompeu Fabra, Barcelona, Spain
     description:
     - Awarded laCaixa INPhINIT Fellowship (6.5% success rate)
-    - Dissertation focused on biomarker discovery and predicting immunotherapy response using big multi-omics and clinical data (<a href='https://justalilibit.github.io/assets/pdf/Thesis_BOLL_17Apr2025.pdf' target='_blank'>Read here</a>!).
+    - Dissertation focused on biomarker discovery and predicting immunotherapy response using big multi-omics and clinical data (<a href='https://justalilibit.github.io/assets.nosync/pdf/Thesis_BOLL_17Apr2025.pdf' target='_blank'>Read here</a>!).
     - Big thanks to my wonderful supervisor <a href='https://albagroup.upf.edu/people/alba-m' target='_blank'>M. Mar Albà</a>!
   - title: Bioinformatics(M.Sc.)
     role: Universidad Pompeu Fabra, Barcelona, Spain

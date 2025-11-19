@@ -1,6 +1,6 @@
 subject: Science Communication
 listing-order: 4
-icon: "/assets/img/clipboard-list.svg"
+icon: "/assets.nosync/img/clipboard-list.svg"
 contents:
   - title: "International Day of Women and Girls in Science, Barcelona"
     description: 2 hours of Experiments with Students of 6 to 8 years old - in Spanish.
@@ -91,19 +91,19 @@ contents:
         <!-- First Row -->
         <div class="gallery-row">
           <div class="gallery-item">
-            <a href="#lightbox1"><img src="https://justalilibit.github.io/assets/img/Rin4min-2.jpg" alt="Rin4min Finals 2024" style="width:100%;height:auto;"></a>
+            <a href="#lightbox1"><img src="https://justalilibit.github.io/assets.nosync/img/Rin4min-2.jpg" alt="Rin4min Finals 2024" style="width:100%;height:auto;"></a>
           </div>
 
           <div class="gallery-item">
-            <a href="#lightbox2"><img src="https://justalilibit.github.io/assets/img/EuropResNight_2021-2.png" alt="European Researchers Night 2021" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2"><img src="https://justalilibit.github.io/assets.nosync/img/EuropResNight_2021-2.png" alt="European Researchers Night 2021" style="width:100%;height:auto;"></a>
           </div>
 
           <div class="gallery-item">
-            <a href="#lightbox3"><img src="https://justalilibit.github.io/assets/img/eurResNight2024-2.jpg" alt="European Researchers Night 2024" style="width:100%;height:auto;"></a>
+            <a href="#lightbox3"><img src="https://justalilibit.github.io/assets.nosync/img/eurResNight2024-2.jpg" alt="European Researchers Night 2024" style="width:100%;height:auto;"></a>
           </div>
   
           <div class="gallery-item">
-            <a href="#lightbox5"><img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024-2.png" alt="OPEN PRBB 2023" style="width:100%;height:auto;"></a>
+            <a href="#lightbox5"><img src="https://justalilibit.github.io/assets.nosync/img/OPEN_PRBB2024-2.png" alt="OPEN PRBB 2023" style="width:100%;height:auto;"></a>
           </div>
         </div>
       </div>
@@ -111,34 +111,34 @@ contents:
       <!-- Lightbox Modals -->
       <div id="lightbox1" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Rin4min.jpg" alt="Rin4min Finals 2024">
+        <img src="https://justalilibit.github.io/assets.nosync/img/Rin4min.jpg" alt="Rin4min Finals 2024">
       </div>
 
       <div id="lightbox2" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/EuropResNight_2021.png" alt="European Researchers Night 2021">
+        <img src="https://justalilibit.github.io/assets.nosync/img/EuropResNight_2021.png" alt="European Researchers Night 2021">
       </div>
 
       <div id="lightbox3" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/eurResNight2024_2.jpeg" alt="European Researchers Night 2024">
+        <img src="https://justalilibit.github.io/assets.nosync/img/eurResNight2024_2.jpeg" alt="European Researchers Night 2024">
       </div>
 
       <div id="lightbox5" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023">
+        <img src="https://justalilibit.github.io/assets.nosync/img/OPEN_PRBB2024.png" alt="OPEN PRBB 2023">
       </div>
 
 
       <!-- Lightbox Modals
 
       <div class="gallery-item">
-        <a href="#lightbox4"><img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;"></a>
+        <a href="#lightbox4"><img src="https://justalilibit.github.io/assets.nosync/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024" style="width:100%;height:auto;"></a>
       </div>
 
       <div id="lightbox4" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024">
+        <img src="https://justalilibit.github.io/assets.nosync/img/GENOMICS_SEMINAR2024.png" alt="Genomics Seminar 2024">
       </div>
       
       -->

@@ -1,40 +1,40 @@
 subject: Outside the lab
 listing-order: 9
-icon: "/assets/img/paintbrush.svg"
+icon: "/assets.nosync/img/paintbrush.svg"
 contents:
   - title: "Besides being a scientist, I also enjoy drawing and designing. Here are some examples of my work"
     images: |
       <div class="gallery">
           <div class="gallery-item">
-            <a href="#lightbox2.6"><img src="https://justalilibit.github.io/assets/img/Boat_aquarell.jpeg" alt="boat1" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.6"><img src="https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg" alt="boat1" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.7"><img src="https://justalilibit.github.io/assets/img/boat_aquarell_2.jpeg" alt="boat2" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.7"><img src="https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg" alt="boat2" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets/img/pants_acrylq.jpeg" alt="trousers" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets.nosync/img/pants_acrylq.jpeg" alt="trousers" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets/img/holzbrettq.jpg" alt="board" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets.nosync/img/holzbrettq.jpg" alt="board" style="width:100%;height:auto;"></a>
           </div>
       </div>
 
       <!-- Lightbox Modals -->
       <div id="lightbox2.6" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Boat_aquarell.jpeg" alt="boat">
+        <img src="https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg" alt="boat">
       </div>
       <div id="lightbox2.7" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/boat_aquarell_2.jpeg" alt="Boat amaya">
+        <img src="https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg" alt="Boat amaya">
       </div>
       <div id="lightbox2.8" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/pants_acryl.jpeg" alt="Holzbrett">
+        <img src="https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg" alt="Holzbrett">
       </div>
       <div id="lightbox2.9" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/holzbrett.jpg" alt="Hose">
+        <img src="https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg" alt="Hose">
       </div>
 
 
@@ -44,19 +44,19 @@ contents:
         <!-- First Row -->
         <div class="gallery-row">
           <div class="gallery-item">
-            <a href="#lightbox2.3"><img src="https://justalilibit.github.io/assets/img/chorroq.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.3"><img src="https://justalilibit.github.io/assets.nosync/img/chorroq.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.5"><img src="https://justalilibit.github.io/assets/img/volley.jpeg" alt="Volley 2024" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.5"><img src="https://justalilibit.github.io/assets.nosync/img/volley.jpeg" alt="Volley 2024" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.1"><img src="https://justalilibit.github.io/assets/img/Ski_1q.jpeg" alt="Gargellen 2025" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.1"><img src="https://justalilibit.github.io/assets.nosync/img/Ski_1q.jpeg" alt="Gargellen 2025" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.2"><img src="https://justalilibit.github.io/assets/img/Ski_2q.jpg" alt="Mountain tour 2025" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.2"><img src="https://justalilibit.github.io/assets.nosync/img/Ski_2q.jpg" alt="Mountain tour 2025" style="width:100%;height:auto;"></a>
           </div>
           <div class="gallery-item">
-            <a href="#lightbox2.4"><img src="https://justalilibit.github.io/assets/img/sailq.jpeg" alt="Catamaran" style="width:100%;height:auto;"></a>
+            <a href="#lightbox2.4"><img src="https://justalilibit.github.io/assets.nosync/img/sailq.jpeg" alt="Catamaran" style="width:100%;height:auto;"></a>
           </div>
         </div>
       </div>
@@ -64,21 +64,21 @@ contents:
       <!-- Lightbox Modals -->
       <div id="lightbox2.1" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Ski_1.jpeg" alt="Ski 2025">
+        <img src="https://justalilibit.github.io/assets.nosync/img/Ski_1.jpeg" alt="Ski 2025">
       </div>
       <div id="lightbox2.2" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Ski_2.jpg" alt="Mountain skiing 2025">
+        <img src="https://justalilibit.github.io/assets.nosync/img/Ski_2.jpg" alt="Mountain skiing 2025">
       </div>
       <div id="lightbox2.3" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga">
+        <img src="https://justalilibit.github.io/assets.nosync/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga">
       </div>
       <div id="lightbox2.4" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/sail.jpeg" alt="Catamaran Baltic Sea">
+        <img src="https://justalilibit.github.io/assets.nosync/img/sail.jpeg" alt="Catamaran Baltic Sea">
       </div>
       <div id="lightbox2.5" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/volleyq.jpeg" alt="Volley Tournament PRBB 2024">
+        <img src="https://justalilibit.github.io/assets.nosync/img/volleyq.jpeg" alt="Volley Tournament PRBB 2024">
       </div>

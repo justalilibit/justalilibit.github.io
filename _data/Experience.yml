@@ -1,6 +1,6 @@
 subject: Experiences
 listing-order: 1
-icon: "/assets/img/briefcase.svg"
+icon: "/assets.nosync/img/briefcase.svg"
 contents:
   - title: Data Scientist and Project Management (PhD Researcher)
     role:  PhD Researcher at <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's</a> Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona

@@ -1,38 +1,38 @@
 subject: Science and Art
 listing-order: 8
-icon: "/assets/img/paintbrush.svg"
+icon: "/assets.nosync/img/paintbrush.svg"
 contents:
   - title: "Figures for Doctoral Thesis"
     image: |
       <div class="gallery">
           <div class="gallery-row">
             <div class="gallery-item">
-              <a href="#lightboxici"><img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors" style="height:300px;width:auto;"></a>
+              <a href="#lightboxici"><img src="https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors" style="height:300px;width:auto;"></a>
             </div>
             <div class="gallery-item">
-              <a href="#lightboxtme"><img src="https://justalilibit.github.io/assets/img/Fig_3_TME.svg" alt="Tumor microenvironment" style="height:300px;width:auto;"></a>
+              <a href="#lightboxtme"><img src="https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.svg" alt="Tumor microenvironment" style="height:300px;width:auto;"></a>
             </div>
           </div>
 
       <!-- Lightbox Modals -->
       <div id="lightboxici" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Fig_1_ICI.jpg" alt="Immune Checkpoint inhibitors">
+        <img src="https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.jpg" alt="Immune Checkpoint inhibitors">
       </div>
       <div id="lightboxtme" class="lightbox">
         <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets/img/Fig_3_TME.jpg" alt="Tumor microenvironment">
+        <img src="https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.jpg" alt="Tumor microenvironment">
       </div>
 
   - title: "Animation of immune checkpoint inhibitors"
     description: |
       <div style="display:flex; gap:20px;">
         <video width="500" style="height:auto;" controls>
-          <source src="https://justalilibit.github.io/assets/vid/ici_untreated_web.mp4" type="video/mp4">
+          <source src="https://justalilibit.github.io/assets.nosync/vid/ici_untreated_web.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
         <video width="500" style="height:auto;" controls>
-          <source src="https://justalilibit.github.io/assets/vid/ici_Tcell_web.mp4" type="video/mp4">
+          <source src="https://justalilibit.github.io/assets.nosync/vid/ici_Tcell_web.mp4" type="video/mp4">
           Your browser does not support the video tag.
         </video>
       </div>
@@ -44,10 +44,10 @@ contents:
     image: |
       <table>
       <tr>
-        <td><img src="https://justalilibit.github.io/assets/img/Sus_logo.jpg" alt="PRBB Sustainability Group" style="width:300px;height:auto;"></td>
-        <td><img src="https://justalilibit.github.io/assets/img/iscb_poster_ig1.png" alt="SCS2024" style="width:300px;height:auto;"></td>
-        <td><img src="https://justalilibit.github.io/assets/img/iscb_poster_ig2.jpg" alt="SCS2024_ig" style="width:300px;height:auto;"></td>
+        <td><img src="https://justalilibit.github.io/assets.nosync/img/Sus_logo.jpg" alt="PRBB Sustainability Group" style="width:300px;height:auto;"></td>
+        <td><img src="https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig1.png" alt="SCS2024" style="width:300px;height:auto;"></td>
+        <td><img src="https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig2.jpg" alt="SCS2024_ig" style="width:300px;height:auto;"></td>
       </tr>
       </table>
   # - title: "Title Page for the PhD Thesisof a friend"
-  #   image: '<img src="https://justalilibit.github.io/assets/img/Jesus_Thesis.png" alt="HER2" style="width:300px;height:auto;">'
+  #   image: '<img src="https://justalilibit.github.io/assets.nosync/img/Jesus_Thesis.png" alt="HER2" style="width:300px;height:auto;">'

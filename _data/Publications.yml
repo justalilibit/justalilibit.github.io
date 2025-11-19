@@ -1,6 +1,6 @@
 subject: Publications
 listing-order: 2
-icon: "/assets/img/flask.svg"
+icon: "/assets.nosync/img/flask.svg"
 contents:
   - title: Papers
     ref: 
@@ -18,8 +18,8 @@ contents:
     images: |
         <table>
           <tr>
-            <td><img src="https://justalilibit.github.io/assets/img/EACR_2025_1.jpeg" alt="EACR talk" style="width:500px;height:auto;"></td>
-            <td><img src="https://justalilibit.github.io/assets/img/EACR_2025_2.jpeg" alt="EACR discussion" style="width:500px;height:auto;"></td>
+            <td><img src="https://justalilibit.github.io/assets.nosync/img/EACR_2025_1.jpeg" alt="EACR talk" style="width:500px;height:auto;"></td>
+            <td><img src="https://justalilibit.github.io/assets.nosync/img/EACR_2025_2.jpeg" alt="EACR discussion" style="width:500px;height:auto;"></td>
           </tr>
         </table>
   - title: Poster Presentations
@@ -30,14 +30,14 @@ contents:
       - "European Conference Computational Biology (ECCB), Sitges, Spain, 12th of September 2022"
       - "Immunity and Cancer Immunotherapy, Marseille, France, 21st of June 2022"
       - "EMBL Cancer Genomics Course, Cambridge, Great Britain, 20th of June 2022"
-      - "<a href=\"https://justalilibit.github.io/assets/pdf/Poster_EARC_2025.pdf\" target=\"_blank\">Check out my most recent poster here</a>!"
+      - "<a href=\"https://justalilibit.github.io/assets.nosync/pdf/Poster_EARC_2025.pdf\" target=\"_blank\">Check out my most recent poster here</a>!"
 
     images: |
       <table>
         <tr>
-          <td><img src="https://justalilibit.github.io/assets/img/Poster_ECCB.jpeg" alt="EcCb poster" style="width:320px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/EACR_poster_s.png" alt="EACR poster" style="width:320px;height:auto;"></td>
-          <td><img src="https://justalilibit.github.io/assets/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets.nosync/img/Poster_ECCB.jpeg" alt="EcCb poster" style="width:320px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets.nosync/img/EACR_poster_s.png" alt="EACR poster" style="width:320px;height:auto;"></td>
+          <td><img src="https://justalilibit.github.io/assets.nosync/img/Poster_EMBL.jpeg" alt="EMBL poster" style="width:300px;height:auto;"></td>
         </tr>
       </table>
     
