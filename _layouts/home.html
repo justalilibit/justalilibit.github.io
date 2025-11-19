@@ -25,7 +25,7 @@
   </div>
   <div id="about">
     <div class="profile-zone">
-      <img class="profile-img" src="{{ site.profile_img | prepend: site.baseurl }}" alt="My Photo">
+      <img class="profile-img" src="{{ site.profile_img | prepend: site.baseurl }}" alt="Lilian Marie Boll">
       <ul class="personal-info">
         {% if site.phone_number %}
         <li><a aria-label="My Phone">
@@ -160,14 +160,8 @@
     document.querySelectorAll('a[href]').forEach(a => {
       try {
         const url = new URL(a.href, location.href);
-        // If you want only external links:
-        if (url.hostname !== hostname) {
-          a.setAttribute('target', '_blank');
-          a.setAttribute('rel', 'noopener noreferrer');
-        }
-        // If you want ALL links to open in a new tab, use:
-        // a.setAttribute('target', '_blank');
-        // a.setAttribute('rel', 'noopener noreferrer');
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
       } catch (e) {
         // ignore invalid URLs (e.g. mailto:, javascript:)
       }

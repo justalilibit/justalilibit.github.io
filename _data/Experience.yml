@@ -2,21 +2,20 @@ subject: Experiences
 listing-order: 1
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: PhD Researcher
-    role:  <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's</a> Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona
+  - title: Data Scientist and Project Management (PhD Researcher)
+    role:  PhD Researcher at <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's</a> Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona
     description:
       - "Conducted research in oncology and immunotherapy, integrating clinical and multi-omics data for biomarker discovery."
-      - "Handled multi-task projects, balancing data generation and analysis, publication, and presentations ensuring deadlines were met."
-      - "Managed big datasets, ensured data harmonization and quality control, and generated robust evidence."
-      - "Collaborated with clinicians and cross-functional teams to translate findings into meaningful insights." 
-      - "Mentored junior researchers, both persuing a PhD now."
-      - "Presented work to scientific and public audiences."
-      - "Two first-author publications in Nature Communication and Scientific Reports."
-      - "<a href=\"https://justalilibit.github.io/assets/pdf/Thesis_BOLL_17Apr2025.pdf\" target=\"_blank\">Check out my thesis here</a>!"
+      - "Coordinated three multi-task projects, balancing data generation and analysis, publication, and presentations ensuring deadlines were met."
+      - "Handled seven big datasets, ensured data harmonization and quality control, and generated robust evidence."
+      - "Managed stakeholders from cross-functional teams (bioinformaticians, clinicians, biologists) to translate findings into meaningful insights." 
+      - "Mentored two junior researchers, both persuing a PhD now."
+      - "Strong scientific writer shown by two first-author publications in Nature Communication and Scientific Reports."
+      - "Story-telling and public speaking experience scientific and public audiences."
     date: Nov. 2021 - Jul. 2025
 
-  - title: Visiting Researcher
-    role: Vall d'Hebron Oncology Institute (VHIO), Barcelona
+  - title: Proactive Learner 
+    role: Visiting Researcher at Vall d'Hebron Oncology Institute (VHIO), Barcelona
     description: 
       - "Four weeks stay in the groups of Francisco Martínez Jiménez (<a href=\"https://vhio.net/pf/computational-immunogenomics-group/\" target=\"_blank\">Computational Immunogenomics</a>) and José Antonio Seoane (<a href=\"https://vhio.net/pf/cancer-computational-biology-group/\" target=\"_blank\">Cancer Computational Biology</a>)."
       - "Experience in immunopeptidomics and survival data."
@@ -29,25 +28,28 @@ contents:
   #     - For my master thesis in Bioinformatic and in preparation for my PhD, I joined <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's group</a> to learn about genomic research on biomarkers in immunotherapy.
   #   date: Sep. 2021 - Nov. 2022
 
-  - title: Internship (M.Sc.)
-    role: Urban Planning and Environmental Health, ISGlobal, Barcelona
+  - title: Analytical Thinker and Cross-Functional Teamplayer
+    role: Internship (M.Sc.) at Urban Planning and Environmental Health, ISGlobal, Barcelona
     description: 
-      - Analyzed epidemiological datasets on prenatal greenspace exposure and child health outcomes.
-      - Applied statistical programming and causal inference methods to account for socio-economic and cultural factors.
-      - First-author publication and contributed to a multi-disciplinary review.
+      - Applied statistical programming using R on one epidemiological dataset to analyze prenatal greenspace exposure and child health, employing causal inference methods to control for complex socio-economic and cultural confounding factors.
+      - Authored, revised, and managed the submission process for a first-author manuscript, resulting in a peer-reviewed publication.
+      - Cooperated as a key member of a multi-disciplinary team (involving members from Iran and 5 European countries) to conduct a comprehensive literature review.
     date: Sep. 2019 - Feb. 2020
 
-  - title: Internship (B.Sc.)
-    role: Cell Biology, Philipps Universität, Marburg
+  - title: Comprehensive Biomedical Scientist (B.Sc.)
+    role: B.Sc. in Biomed and internship at Cell Biology, Philipps Universität, Marburg
     description: 
-      - Applied wet lab lab techniques and live-cell imagining and fluorescence microscopy during a 6 months stay at Prof. Ralf Jacob's group.
-      - Learned to structure own projects from the first idea to their implementation.
+      - Wide-ranging scientific foundation covering core disciplines including Cell & Molecular Biology, Physiology, Genetics, Pathology, and Pharmacology.
+      - Applied a broad spectrum of wet lab lab and microscopy techniques during a 6 months stay at Prof. Ralf Jacob's group.
+      - Independently structured and implemented an experimental project..
     date: Jan. 2018 - Jul. 2018
     
-  - title: Design Committee Member
-    role: iSCB Student Council
+  - title: Global Scientific Communication & Design Enthusiast
+    role: Design Committee Member of the iSCB Student Council
     description:
-      - Promoted the Student Council Symposium 2024 on among early-career scientist, designing social media posts, posters and merch (<a href="https://www.instagram.com/iscb_sc/" target="_blank">Check out the iSCB instagram</a>).
+      - Promoted the 20th Student Council Symposium 2024 among early-career scientist.
+      - Executed a 7-month promotional campaign by designing a cohesive suite of materials, including: 28 social media posts (targeting Instagram, Twitter/X, LinkedIn., with an estimated reach of 200 followers), and printed handouts for local schools and universities.
+      - Coordinated with international team members across different time zones to ensure timely delivery of all design assets.
     date: Jan. -  Jul. 2024
 
   - title: "Courses"
