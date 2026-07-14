@@ -5,80 +5,55 @@ contents:
   - title: "Besides being a scientist, I also enjoy drawing and designing. Here are some examples of my work"
     images: |
       <div class="gallery">
-          <div class="gallery-item">
-            <a href="#lightbox2.6"><img src="https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg" alt="boat1" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
-            <a href="#lightbox2.7"><img src="https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg" alt="boat2" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
-            <a href="#lightbox2.8"><img src="https://justalilibit.github.io/assets.nosync/img/pants_acrylq.jpeg" alt="trousers" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
-            <a href="#lightbox2.9"><img src="https://justalilibit.github.io/assets.nosync/img/holzbrettq.jpg" alt="board" style="width:100%;height:auto;"></a>
-          </div>
-      </div>
-
-      <!-- Lightbox Modals -->
-      <div id="lightbox2.6" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg" alt="boat">
-      </div>
-      <div id="lightbox2.7" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg" alt="Boat amaya">
-      </div>
-      <div id="lightbox2.8" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg" alt="Holzbrett">
-      </div>
-      <div id="lightbox2.9" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg" alt="Hose">
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg" data-alt="boat">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg" alt="boat1" loading="lazy">
+          </button>
+        </div>
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg" data-alt="Boat amaya">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg" alt="boat2" loading="lazy">
+          </button>
+        </div>
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg" data-alt="Holzbrett">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/pants_acrylq.jpeg" alt="trousers" loading="lazy">
+          </button>
+        </div>
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg" data-alt="Hose">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/holzbrettq.jpg" alt="board" loading="lazy">
+          </button>
+        </div>
       </div>
 
 
   - title: "In my free time, you'll find me outdoors, chasing a bit of adrenaline and balance from Barcelona's city buzz. And yes, I built my own van for the full experience!!"
     images: |
       <div class="gallery">
-        <!-- First Row -->
-        <div class="gallery-row">
-          <div class="gallery-item">
-            <a href="#lightbox2.3"><img src="https://justalilibit.github.io/assets.nosync/img/chorroq.jpg" alt="Multi-pitch in El Chorro, Malaga" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
-            <a href="#lightbox2.5"><img src="https://justalilibit.github.io/assets.nosync/img/volley.jpeg" alt="Volley 2024" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
-            <a href="#lightbox2.1"><img src="https://justalilibit.github.io/assets.nosync/img/Ski_1q.jpeg" alt="Gargellen 2025" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
-            <a href="#lightbox2.2"><img src="https://justalilibit.github.io/assets.nosync/img/Ski_2q.jpg" alt="Mountain tour 2025" style="width:100%;height:auto;"></a>
-          </div>
-          <div class="gallery-item">
-            <a href="#lightbox2.4"><img src="https://justalilibit.github.io/assets.nosync/img/sailq.jpeg" alt="Catamaran" style="width:100%;height:auto;"></a>
-          </div>
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/chorro.jpg" data-alt="Multi-pitch in El Chorro, Malaga">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/chorroq.jpg" alt="Multi-pitch in El Chorro, Malaga" loading="lazy">
+          </button>
         </div>
-      </div>
-
-      <!-- Lightbox Modals -->
-      <div id="lightbox2.1" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/Ski_1.jpeg" alt="Ski 2025">
-      </div>
-      <div id="lightbox2.2" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/Ski_2.jpg" alt="Mountain skiing 2025">
-      </div>
-      <div id="lightbox2.3" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/chorro.jpg" alt="Multi-pitch in El Chorro, Malaga">
-      </div>
-      <div id="lightbox2.4" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/sail.jpeg" alt="Catamaran Baltic Sea">
-      </div>
-      <div id="lightbox2.5" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/volleyq.jpeg" alt="Volley Tournament PRBB 2024">
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/volleyq.jpeg" data-alt="Volley Tournament PRBB 2024">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/volley.jpeg" alt="Volley 2024" loading="lazy">
+          </button>
+        </div>
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/Ski_1.jpeg" data-alt="Ski 2025">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/Ski_1q.jpeg" alt="Gargellen 2025" loading="lazy">
+          </button>
+        </div>
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/Ski_2.jpg" data-alt="Mountain skiing 2025">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/Ski_2q.jpg" alt="Mountain tour 2025" loading="lazy">
+          </button>
+        </div>
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/sail.jpeg" data-alt="Catamaran Baltic Sea">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/sailq.jpeg" alt="Catamaran" loading="lazy">
+          </button>
+        </div>
       </div>

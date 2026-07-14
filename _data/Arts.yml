@@ -5,23 +5,16 @@ contents:
   - title: "Figures for Doctoral Thesis"
     image: |
       <div class="gallery">
-          <div class="gallery-row">
-            <div class="gallery-item">
-              <a href="#lightboxici"><img src="https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors" style="height:300px;width:auto;"></a>
-            </div>
-            <div class="gallery-item">
-              <a href="#lightboxtme"><img src="https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.svg" alt="Tumor microenvironment" style="height:300px;width:auto;"></a>
-            </div>
-          </div>
-
-      <!-- Lightbox Modals -->
-      <div id="lightboxici" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.jpg" alt="Immune Checkpoint inhibitors">
-      </div>
-      <div id="lightboxtme" class="lightbox">
-        <span class="lightbox-close" onclick="closeLightbox(event)">&times;</span>
-        <img src="https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.jpg" alt="Tumor microenvironment">
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.jpg" data-alt="Immune Checkpoint inhibitors">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.svg" alt="Immune Checkpoint inhibitors" style="height:300px;width:auto;" loading="lazy">
+          </button>
+        </div>
+        <div class="gallery-item">
+          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.jpg" data-alt="Tumor microenvironment">
+            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.svg" alt="Tumor microenvironment" style="height:300px;width:auto;" loading="lazy">
+          </button>
+        </div>
       </div>
 
   - title: "Animation of immune checkpoint inhibitors"
