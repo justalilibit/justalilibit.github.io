@@ -103,14 +103,20 @@
   <div id="contents">
     <ul>
       {% for subject in meta %}
-        <li class="subject" id="{{ subject.subject }}">
+        <li class="subject{% if subject.subject == 'Skills' %} skills-section{% endif %}" id="{{ subject.subject }}">
           <h2 class="subject-name">
             <div>
               <img class="subject-icon" src="{{ subject.icon | prepend: site.baseurl }}" alt="{{ subject.subject | prepend: site.baseurl }}">
             </div>
             {{ subject.subject }}
           </h2>
-          <ul>
+          {% if subject.subject == "Skills" %}
+          <div class="skills-explorer">
+            <label class="skills-explorer__label" for="skills-search">Search skills</label>
+            <input type="search" id="skills-search" class="skills-explorer__input" placeholder="Search skills..." autocomplete="off">
+          </div>
+          {% endif %}
+          <ul class="subject-contents">
               {% for member in subject.contents %}
               <li class="item">
                   <div class="content-header">

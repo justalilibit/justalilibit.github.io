@@ -233,6 +233,34 @@ a { text-decoration:none; }
 
     .item { position: relative; }
 
+    .skills-explorer {
+        margin: 1rem 0 1.5rem;
+    }
+
+    .skills-explorer__label {
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 600;
+        color: var(--theme4-dark);
+    }
+
+    .skills-explorer__input {
+        width: 100%;
+        max-width: 420px;
+        padding: 0.7rem 0.95rem;
+        border: 1px solid var(--theme4-medium);
+        border-radius: 999px;
+        font: inherit;
+        background: white;
+        color: var(--font-dark);
+        box-sizing: border-box;
+    }
+
+    .skills-explorer__input:focus {
+        outline: 2px solid var(--theme4-medium);
+        outline-offset: 2px;
+    }
+
     .item:nth-child(1) { margin-top: -0.5rem; }
 
     .content-header + ul { margin-top: -1rem; }

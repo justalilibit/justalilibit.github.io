@@ -21,6 +21,23 @@ document.addEventListener('DOMContentLoaded', function(){
         tocbox.append(tocItem);
     });
 
+    const skillsSection = document.querySelector('.subject.skills-section');
+    const skillsSearch = document.getElementById('skills-search');
+
+    if (skillsSection && skillsSearch) {
+        const skillItems = Array.from(skillsSection.querySelectorAll('.item'));
+
+        skillsSearch.addEventListener('input', function() {
+            const query = this.value.trim().toLowerCase();
+
+            skillItems.forEach(function(item) {
+                const text = item.textContent.toLowerCase();
+                const matches = text.includes(query);
+                item.style.display = matches ? '' : 'none';
+            });
+        });
+    }
+
     var contents = document.querySelectorAll('.subject, .item');
 
     setInterval(function(){
