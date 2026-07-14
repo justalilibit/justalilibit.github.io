@@ -16,30 +16,6 @@ contents:
       - Database design, curation & integration
 
     images: |
-      <style>
-        .icon-container {
-          display: inline-block;
-          text-align: center;
-          margin: 10px;
-        }
-        .icon-container img {
-          width: 60px;
-          height: auto;
-          transition: transform 0.3s ease;
-        }
-        .icon-container:hover img {
-          transform: scale(1.1);
-        }
-        .icon-label {
-          display: none;
-          margin-top: 5px;
-          font-size: 14px;
-          color: #333;
-        }
-        .icon-container:hover .icon-label {
-          display: block;
-        }
-      </style>
 
       <div class="icons-section">
         <!-- Python -->
