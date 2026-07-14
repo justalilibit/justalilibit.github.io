@@ -3,30 +3,23 @@ listing-order: 9
 icon: "/assets.nosync/img/paintbrush.svg"
 contents:
   - title: "Besides being a scientist, I also enjoy drawing and designing. Here are some examples of my work"
-    images: |
-      <div class="gallery">
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg" data-alt="boat">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg" alt="boat1" loading="lazy">
-          </button>
-        </div>
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg" data-alt="Boat amaya">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg" alt="boat2" loading="lazy">
-          </button>
-        </div>
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg" data-alt="Holzbrett">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/pants_acrylq.jpeg" alt="trousers" loading="lazy">
-          </button>
-        </div>
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg" data-alt="Hose">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/holzbrettq.jpg" alt="board" loading="lazy">
-          </button>
-        </div>
-      </div>
-
+      gallery:
+        - thumb: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
+          full: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
+          alt: "Boat watercolor"
+          caption: "Boat watercolor"
+        - thumb: "https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg"
+          full: "https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg"
+          alt: "Boat Amaya"
+          caption: "Boat Amaya"
+        - thumb: "https://justalilibit.github.io/assets.nosync/img/pants_acrylq.jpeg"
+          full: "https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg"
+          alt: "Acrylic pants design"
+          caption: "Acrylic pants design"
+        - thumb: "https://justalilibit.github.io/assets.nosync/img/holzbrettq.jpg"
+          full: "https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg"
+          alt: "Wood board artwork"
+          caption: "Wood board artwork"
 
   - title: "In my free time, you'll find me outdoors, chasing a bit of adrenaline and balance from Barcelona's city buzz."
     images: |
