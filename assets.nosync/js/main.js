@@ -45,6 +45,7 @@ document.addEventListener('DOMContentLoaded', function(){
             '  <button class="lightbox-nav lightbox-nav--prev" type="button" aria-label="Previous image">&#10094;</button>',
             '  <div class="lightbox-stage">',
             '    <img class="lightbox-image" src="" alt="">',
+            '    <div class="lightbox-caption" aria-live="polite"></div>',
             '  </div>',
             '  <button class="lightbox-nav lightbox-nav--next" type="button" aria-label="Next image">&#10095;</button>',
             '</div>'
@@ -53,6 +54,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
     const lightboxOverlay = document.querySelector('.lightbox-overlay');
     const lightboxImage = lightboxOverlay.querySelector('.lightbox-image');
+    const lightboxCaption = lightboxOverlay.querySelector('.lightbox-caption');
     const lightboxClose = lightboxOverlay.querySelector('.lightbox-close');
     const lightboxPrev = lightboxOverlay.querySelector('.lightbox-nav--prev');
     const lightboxNext = lightboxOverlay.querySelector('.lightbox-nav--next');
@@ -76,6 +78,7 @@ document.addEventListener('DOMContentLoaded', function(){
         lightboxImage.src = items[index].src;
         console.log('set image src', lightboxImage.src);
         lightboxImage.alt = items[index].alt;
+        lightboxCaption.textContent = items[index].caption || items[index].alt || '';
         lightboxOverlay.hidden = false;
         console.log('overlay visible', !lightboxOverlay.hidden);
         document.body.style.overflow = 'hidden';
@@ -93,6 +96,7 @@ document.addEventListener('DOMContentLoaded', function(){
         lightboxCurrentIndex = safeIndex;
         lightboxImage.src = lightboxItems[safeIndex].src;
         lightboxImage.alt = lightboxItems[safeIndex].alt;
+        lightboxCaption.textContent = lightboxItems[safeIndex].caption || lightboxItems[safeIndex].alt || '';
     }
 
     lightboxClose.addEventListener('click', closeLightbox);
@@ -124,7 +128,8 @@ document.addEventListener('DOMContentLoaded', function(){
             const img = button.querySelector('img');
             return {
                 src: button.getAttribute('data-full') || img.getAttribute('src'),
-                alt: button.getAttribute('data-alt') || img.getAttribute('alt') || ''
+                alt: button.getAttribute('data-alt') || img.getAttribute('alt') || '',
+                caption: button.getAttribute('data-caption') || button.getAttribute('data-alt') || img.getAttribute('alt') || ''
             };
         });
 

@@ -2,6 +2,16 @@ subject: Experiences
 listing-order: 1
 icon: "/assets.nosync/img/briefcase.svg"
 contents:
+  - title: Scientific Expert in Medical Affairs
+    role:  Medical Writer & MLR Technical Reviewer on behalf of Boehringer Ingelheim at Syneos Health, Barcelona
+    description:
+      - "Main Therapeutic Areas: Cardiorenometabolic, Respiratory and Inflammation, patrially Oncology."
+      - "I am responsible for the scientific review of medical content of medical and promotional materials, ensuring accuracy and compliance with regulatory standards."
+      - "I provide scientific expertise to ensure materials are evidence-based, scientifically accurate, and aligned with the latest research and clinical guidelines."     
+      - "I collaborate with cross-functional teams, including medical, regulatory, and clinical affairs."
+
+    date: Since Jan 2026
+
   - title: Data Scientist and Project Management (PhD Researcher)
     role:  PhD Researcher at <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's</a> Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona
     description:
@@ -12,7 +22,7 @@ contents:
       - "I showed strong team leading abilities by mentoring two junior scientists, both pursuing a PhD in Bioinformatics now."
       - "I have proven strong scientific writing skills gained from conducting three manuscripts, resulting in two-first author publications in Nature Communication and Scientific Reports."
       - "Presenting my results at five international conference and seven public events (in English & Spanish) proves my ability to shape data into engaging stories."
-    date: Nov. 2021 - Jul. 2025
+    date: Nov. 2021 - Sep. 2025
 
   - title: Proactive Learner and Adaptable Researcher
     role: "Visiting Researcher in the <a href=\"https://vhio.net/pf/computational-immunogenomics-group/\" target=\"_blank\">Computational Immunogenomics</a> and <a href=\"https://vhio.net/pf/cancer-computational-biology-group/\" target=\"_blank\">Cancer Computational Biology</a> Group at Vall d'Hebron Oncology Institute (VHIO), Barcelona"

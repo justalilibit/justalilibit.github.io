@@ -8,6 +8,7 @@ contents:
       - Clinical and molecular data interpretation
       - Research data management, governance & FAIR data practices
       - Open science & reproducibility in biomedical research
+      - Content & Data management on platforms as Veeva Vault
 
   - title: Data and Tech
     description: 
@@ -63,7 +64,7 @@ contents:
 
   - title: Project Management
     description: 
-      - Critical thinking & solution-oriented mindset
+      - Solution-oriented mindset
       - Cross-functional collaboration
       - Mentoring & team leadership
       - Efficient time and resource management
