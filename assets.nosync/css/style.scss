@@ -233,6 +233,60 @@ a { text-decoration:none; }
 
     .item { position: relative; }
 
+    .experience-entry {
+        margin-top: 1.25rem;
+    }
+
+    .experience-role {
+        margin: 0.35rem 0 0.5rem;
+        font-size: 0.95rem;
+        line-height: 1.5;
+        color: var(--theme4-dark);
+    }
+
+    .experience-details {
+        overflow: hidden;
+        max-height: 0;
+        opacity: 0;
+        margin-top: 0;
+        transition: max-height 0.3s ease, opacity 0.3s ease, margin-top 0.3s ease;
+    }
+
+    .experience-details.is-expanded {
+        opacity: 1;
+        margin-top: 0.5rem;
+    }
+
+    .experience-description-list {
+        margin: 0;
+        padding-left: 1.25rem;
+    }
+
+    .experience-subitem {
+        list-style: disc;
+        margin-top: 0.4rem;
+        line-height: 1.45;
+    }
+
+    .experience-toggle {
+        margin-top: 0.6rem;
+        padding: 0.45rem 0.85rem;
+        border: 1px solid var(--theme4-medium);
+        border-radius: 999px;
+        background: var(--theme3-light);
+        color: var(--theme4-dark);
+        font: inherit;
+        cursor: pointer;
+        transition: background-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .experience-toggle:hover,
+    .experience-toggle:focus-visible {
+        background: var(--theme4-light);
+        transform: translateY(-1px);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    }
+
     .gallery {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -335,6 +389,17 @@ a { text-decoration:none; }
 
     .skills-explorer {
         margin: 1rem 0 1.5rem;
+    }
+
+    @media (max-width: 768px) {
+        .experience-toggle {
+            width: 100%;
+            text-align: center;
+        }
+
+        .experience-role {
+            font-size: 0.9rem;
+        }
     }
 
     .skills-explorer__label {

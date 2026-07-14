@@ -126,6 +126,48 @@ document.addEventListener('DOMContentLoaded', function(){
         });
     });
 
+    document.querySelectorAll('.experience-entry').forEach(function(entry) {
+        const toggle = entry.querySelector('.experience-toggle');
+        const details = entry.querySelector('.experience-details');
+
+        if (!toggle || !details) return;
+
+        function collapseDetails() {
+            details.classList.remove('is-expanded');
+            details.classList.add('is-collapsed');
+            details.style.maxHeight = '0px';
+            details.setAttribute('aria-hidden', 'true');
+            toggle.setAttribute('aria-expanded', 'false');
+            toggle.textContent = 'Show Details';
+        }
+
+        function expandDetails() {
+            details.classList.remove('is-collapsed');
+            details.classList.add('is-expanded');
+            details.style.maxHeight = details.scrollHeight + 'px';
+            details.setAttribute('aria-hidden', 'false');
+            toggle.setAttribute('aria-expanded', 'true');
+            toggle.textContent = 'Hide Details';
+        }
+
+        collapseDetails();
+
+        toggle.addEventListener('click', function() {
+            const expanded = toggle.getAttribute('aria-expanded') === 'true';
+            if (expanded) {
+                collapseDetails();
+            } else {
+                expandDetails();
+            }
+        });
+
+        window.addEventListener('resize', function() {
+            if (details.classList.contains('is-expanded')) {
+                details.style.maxHeight = details.scrollHeight + 'px';
+            }
+        });
+    });
+
     var contents = document.querySelectorAll('.subject, .item');
 
     setInterval(function(){
