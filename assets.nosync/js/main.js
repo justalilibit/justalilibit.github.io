@@ -60,13 +60,24 @@ document.addEventListener('DOMContentLoaded', function(){
     let lightboxCurrentIndex = 0;
     let lightboxScrollY = 0;
 
+    lightboxImage.addEventListener('load', function() {
+        console.log('lightbox image loaded', lightboxImage.src);
+    });
+
+    lightboxImage.addEventListener('error', function() {
+        console.error('lightbox image failed to load', lightboxImage.src);
+    });
+
     function openLightbox(items, index) {
+        console.log('openLightbox', index, items[index]);
         lightboxItems = items;
         lightboxCurrentIndex = index;
         lightboxScrollY = window.scrollY;
         lightboxImage.src = items[index].src;
+        console.log('set image src', lightboxImage.src);
         lightboxImage.alt = items[index].alt;
         lightboxOverlay.hidden = false;
+        console.log('overlay visible', !lightboxOverlay.hidden);
         document.body.style.overflow = 'hidden';
     }
 
@@ -121,6 +132,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
         gallery.querySelectorAll('.gallery-trigger').forEach(function(button, index) {
             button.addEventListener('click', function() {
+                console.log('gallery click', index, button.getAttribute('data-full'));
                 openLightbox(items, index);
             });
         });
