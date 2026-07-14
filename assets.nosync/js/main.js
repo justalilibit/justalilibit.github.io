@@ -147,7 +147,7 @@ document.addEventListener('DOMContentLoaded', function(){
             details.style.maxHeight = details.scrollHeight + 'px';
             details.setAttribute('aria-hidden', 'false');
             toggle.setAttribute('aria-expanded', 'true');
-            toggle.textContent = 'Hide Details';
+            toggle.textContent = 'Hide';
         }
 
         collapseDetails();
