@@ -62,41 +62,55 @@ document.addEventListener('DOMContentLoaded', function(){
     let lightboxCurrentIndex = 0;
     let lightboxScrollY = 0;
 
-    lightboxImage.addEventListener('load', function() {
-        console.log('lightbox image loaded', lightboxImage.src);
-    });
+    function lockScroll() {
+        lightboxScrollY = window.scrollY || window.pageYOffset || 0;
+        document.body.style.position = 'fixed';
+        document.body.style.top = `-${lightboxScrollY}px`;
+        document.body.style.left = '0';
+        document.body.style.right = '0';
+        document.body.style.width = '100%';
+    }
 
-    lightboxImage.addEventListener('error', function() {
-        console.error('lightbox image failed to load', lightboxImage.src);
-    });
+    function unlockScroll() {
+        document.body.style.position = '';
+        document.body.style.top = '';
+        document.body.style.left = '';
+        document.body.style.right = '';
+        document.body.style.width = '';
+        window.scrollTo(0, lightboxScrollY);
+    }
 
     function openLightbox(items, index) {
-        console.log('openLightbox', index, items[index]);
+        console.log('openLightbox called', {
+            index: index,
+            itemsLength: items.length,
+            currentHidden: lightboxOverlay.hidden
+        });
         lightboxItems = items;
-        lightboxCurrentIndex = index;
-        lightboxScrollY = window.scrollY;
-        lightboxImage.src = items[index].src;
-        console.log('set image src', lightboxImage.src);
-        lightboxImage.alt = items[index].alt;
-        lightboxCaption.textContent = items[index].caption || items[index].alt || '';
+        showLightboxItem(index);
         lightboxOverlay.hidden = false;
-        console.log('overlay visible', !lightboxOverlay.hidden);
-        document.body.style.overflow = 'hidden';
+        console.log('lightboxOverlay.hidden after open', lightboxOverlay.hidden);
+        lockScroll();
+        lightboxClose.focus();
     }
 
     function closeLightbox() {
+        console.log('closeLightbox called', {
+            currentHidden: lightboxOverlay.hidden
+        });
         lightboxOverlay.hidden = true;
-        document.body.style.overflow = '';
-        window.scrollTo(0, lightboxScrollY);
+        console.log('lightboxOverlay.hidden after close', lightboxOverlay.hidden);
+        unlockScroll();
     }
 
     function showLightboxItem(index) {
         if (!lightboxItems.length) return;
         const safeIndex = (index + lightboxItems.length) % lightboxItems.length;
         lightboxCurrentIndex = safeIndex;
-        lightboxImage.src = lightboxItems[safeIndex].src;
-        lightboxImage.alt = lightboxItems[safeIndex].alt;
-        lightboxCaption.textContent = lightboxItems[safeIndex].caption || lightboxItems[safeIndex].alt || '';
+        const item = lightboxItems[safeIndex];
+        lightboxImage.src = item.src;
+        lightboxImage.alt = item.alt;
+        lightboxCaption.textContent = item.caption || item.alt || '';
     }
 
     lightboxClose.addEventListener('click', closeLightbox);
