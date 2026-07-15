@@ -148,10 +148,12 @@
                     {% for item in member %}
                       {% if item[0] != "title" and item[0] != "date" %}
                         {% if item[0] == "gallery" %}
-                          {% include gallery.html items=item[1] %}
+                          {% assign gallery_items = item[1] %}
+{% include gallery.html items=gallery_items %}
                         {% elsif item[0] == "images" or item[0] == "image" %}
                           {% if item[1][0].thumb %}
-                            {% include gallery.html items=item[1] %}
+                            {% assign gallery_items = item[1] %}
+{% include gallery.html items=gallery_items %}
                           {% else %}
                             {{ item[1] }}
                           {% endif %}
