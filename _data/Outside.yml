@@ -3,7 +3,7 @@ listing-order: 9
 icon: "/assets.nosync/img/paintbrush.svg"
 contents:
   - title: "Besides being a scientist, I also enjoy drawing and designing. Here are some examples of my work"
-      gallery:
+    gallery:
         - thumb: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
           full: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
           alt: "Boat watercolor"
