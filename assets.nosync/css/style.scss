@@ -272,20 +272,26 @@ a { text-decoration:none; }
         margin-top: 0.5rem;
         padding: 0;
         border: none;
-        background: transparent;
+        background: none;
+        box-shadow: none;
+        appearance: none;
         color: var(--theme4-dark);
         font: inherit;
+        font-size: 0.95rem;
+        line-height: 1.4;
         text-decoration: none;
         cursor: pointer;
         display: inline-flex;
         align-items: center;
         gap: 0.35rem;
-        transition: color 0.2s ease, transform 0.2s ease;
+        transition: color 0.2s ease;
     }
 
-    .experience-toggle::after {
-        content: '›';
+    .experience-toggle::before {
+        content: '▸';
         display: inline-block;
+        font-size: 0.95rem;
+        line-height: 1;
         transition: transform 0.2s ease;
     }
 
@@ -293,11 +299,10 @@ a { text-decoration:none; }
     .experience-toggle:focus-visible {
         color: var(--theme3-dark);
         text-decoration: underline;
-        transform: translateX(1px);
     }
 
-    .experience-toggle[aria-expanded="true"]::after {
-        content: '‹';
+    .experience-toggle[aria-expanded="true"]::before {
+        content: '▾';
     }
 
     .gallery {
