@@ -15,13 +15,13 @@ contents:
       - "PRBB Computational Genomics Symposium, St Feliu de Guíxols, Spain, 28th of April 2025."
       - "PRBB Computational Genomics Seminars, Barcelona, Spain, 4th of April 2024."
       - "VHIO Computational Oncology Master Thesis Award, Barcelona, Spain, 21st of February 2024"
-    images: |
-        <table>
-          <tr>
-            <td><img src="https://justalilibit.github.io/assets.nosync/img/EACR_2025_1.jpeg" alt="EACR talk" style="width:500px;height:auto;"></td>
-            <td><img src="https://justalilibit.github.io/assets.nosync/img/EACR_2025_2.jpeg" alt="EACR discussion" style="width:500px;height:auto;"></td>
-          </tr>
-        </table>
+
+    gallery:
+      - full: "https://justalilibit.github.io/assets.nosync/img/EACR_2025_1.jpeg"
+        alt: "EACR talk"
+      - full: "https://justalilibit.github.io/assets.nosync/img/EACR_2025_2.jpeg"
+        alt: "EACR discussion"
+
   - title: Poster Presentations
     ref:
       - "EMBL Cancer Genomics Conference, Heidelberg, Germany, 16th of November 2023"

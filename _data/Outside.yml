@@ -4,49 +4,24 @@ icon: "/assets.nosync/img/paintbrush.svg"
 contents:
   - title: "Besides being a scientist, I also enjoy drawing and designing. Here are some examples of my work"
     gallery:
-        - thumb: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
-          full: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
+        - full: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
           alt: "Boat watercolor"
-          caption: "Boat watercolor"
-        - thumb: "https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg"
-          full: "https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg"
+        - full: "https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg"
           alt: "Boat Amaya"
-          caption: "Boat Amaya"
-        - thumb: "https://justalilibit.github.io/assets.nosync/img/pants_acrylq.jpeg"
-          full: "https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg"
+        - full: "https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg"
           alt: "Acrylic pants design"
-          caption: "Acrylic pants design"
-        - thumb: "https://justalilibit.github.io/assets.nosync/img/holzbrettq.jpg"
-          full: "https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg"
+        - full: "https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg"
           alt: "Wood board artwork"
-          caption: "Wood board artwork"
 
   - title: "In my free time, you'll find me outdoors, chasing a bit of adrenaline and balance from Barcelona's city buzz."
-    images: |
-      <div class="gallery">
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/chorro.jpg" data-alt="Multi-pitch in El Chorro, Malaga">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/chorroq.jpg" alt="Multi-pitch in El Chorro, Malaga" loading="lazy">
-          </button>
-        </div>
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/volleyq.jpeg" data-alt="Volley Tournament PRBB 2024">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/volley.jpeg" alt="Volley 2024" loading="lazy">
-          </button>
-        </div>
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/Ski_1.jpeg" data-alt="Ski 2025">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/Ski_1q.jpeg" alt="Gargellen 2025" loading="lazy">
-          </button>
-        </div>
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/Ski_2.jpg" data-alt="Mountain skiing 2025">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/Ski_2q.jpg" alt="Mountain tour 2025" loading="lazy">
-          </button>
-        </div>
-        <div class="gallery-item">
-          <button class="gallery-trigger" type="button" data-full="https://justalilibit.github.io/assets.nosync/img/sail.jpeg" data-alt="Catamaran Baltic Sea">
-            <img class="gallery-thumb" src="https://justalilibit.github.io/assets.nosync/img/sailq.jpeg" alt="Catamaran" loading="lazy">
-          </button>
-        </div>
-      </div>
+    gallery:
+      - full: "https://justalilibit.github.io/assets.nosync/img/chorro.jpg"
+        alt: "Multi-pitch in El Chorro, Malaga"
+      - full: "https://justalilibit.github.io/assets.nosync/img/volleyq.jpeg"
+        alt: "Volley Tournament PRBB 2024"
+      - full: "https://justalilibit.github.io/assets.nosync/img/Ski_1.jpeg"
+        alt: "Ski 2025"
+      - full: "https://justalilibit.github.io/assets.nosync/img/Ski_2.jpg"
+        alt: "Mountain skiing 2025"
+      - full: "https://justalilibit.github.io/assets.nosync/img/sail.jpeg"
+        alt: "Catamaran Baltic Sea"
