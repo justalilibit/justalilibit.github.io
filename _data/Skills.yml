@@ -55,6 +55,12 @@ contents:
           <span class="icon-label">HTML5</span>
         </div>
 
+        <!-- Veeva -->
+        <div class="icon-container">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/veevalidate/veevalidate-original.svg" alt="Veeva">
+          <span class="icon-label">Veeva Vault</span>
+        </div>
+
         <!-- MySQL -->
         <div class="icon-container">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL">

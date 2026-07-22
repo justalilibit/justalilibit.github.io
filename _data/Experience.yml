@@ -3,24 +3,24 @@ listing-order: 1
 icon: "/assets.nosync/img/briefcase.svg"
 contents:
   - title: Scientific Expert in Medical Affairs
-    role:  Medical Writer & MLR Technical Reviewer on behalf of Boehringer Ingelheim at Syneos Health, Barcelona
+    role:  Medical Writer & MLR Technical Reviewer on behalf of <a href="https://www.boehringer-ingelheim.com/" target="_blank">Boehringer Ingelheim</a>
     description:
-      - "Main Therapeutic Areas: Cardiorenometabolic, Respiratory and Inflammation, patrially Oncology."
-      - "I am responsible for the scientific review of medical content of medical and promotional materials, ensuring accuracy and compliance with regulatory standards."
+      - "Main Therapeutic Areas: Cardiorenometabolic, Respiratory and Inflammation, Oncology."
+      - "I am responsible for the scientific review of medical content of medical and promotional materials."
       - "I provide scientific expertise to ensure materials are evidence-based, scientifically accurate, and aligned with the latest research and clinical guidelines."     
-      - "I collaborate with cross-functional teams, including medical, regulatory, and clinical affairs."
+      - "After only 3 months I was entrusted with the training of new team members, demonstrating my ability to quickly grasp complex scientific concepts and effectively communicate them to others."
+      - "I collaborate with stakeholders of different backgrounds, including medical, regulatory, and clinical affairs."
 
-    date: Since Jan 2026
+    date: Since Jan. 2026
 
-  - title: Data Scientist and Project Management (PhD Researcher)
+  - title: Computational Data Scientist and Project Manager
     role:  PhD Researcher at <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's</a> Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona
     description:
       - "My research focussed on response to immunotherapy in bladder cancer, integrating clinical and multi-omics data for biomarker discovery."
-      - "I <strong>coordinated three projects</strong>, balancing data generation and analysis, publication, and presentations ensuring deadlines were met."
-      - "In quarterly meetings, I ensured the engagement of stakeholders and KOLs from international institutes, including clinicians, lab staff & bioinformaticians." 
-      - "Handled seven big datasets, ensured data harmonization and quality control, and generated robust evidence."
+      - "I <strong>coordinated three projects</strong>, balancing data generation and analysis, publication, and presentations ensuring deadlines were met." 
+      - "Handled 7 big datasets, ensured data harmonization and quality control, and generated robust evidence."
       - "I showed strong team leading abilities by mentoring two junior scientists, both pursuing a PhD in Bioinformatics now."
-      - "I have proven strong scientific writing skills gained from conducting three manuscripts, resulting in two-first author publications in Nature Communication and Scientific Reports."
+      - "I have proven strong scientific writing skills resul in three-first author publications in Nature Communication, Scientific Reports and Oncogenes."
       - "Presenting my results at five international conference and seven public events (in English & Spanish) proves my ability to shape data into engaging stories."
     date: Nov. 2021 - Sep. 2025
 
