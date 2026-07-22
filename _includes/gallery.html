@@ -1,15 +1,12 @@
-<div class="gallery">
+
+<div class="simple-gallery">
   {% for item in include.items %}
-    <div class="gallery-item">
-      <button class="gallery-trigger" type="button"
-              data-full="{{ item.full }}"
-              data-alt="{{ item.alt | escape }}"
-              {% if item.caption %}data-caption="{{ item.caption | escape }}"{% endif %}>
-        <img class="gallery-thumb" src="{{ item.thumb }}" alt="{{ item.alt }}" loading="lazy">
-      </button>
-      {% if item.caption %}
-        <div class="gallery-item-caption">{{ item.caption }}</div>
-      {% endif %}
-    </div>
+    <img
+      src="{{ item.full | default: item.thumb }}"
+      alt="{{ item.alt | default: item.caption }}"
+      class="simple-gallery-image{% if item.contain %} simple-gallery-image-contain{% endif %}"
+      loading="lazy"
+    >
   {% endfor %}
 </div>
+

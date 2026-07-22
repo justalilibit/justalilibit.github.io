@@ -4,14 +4,12 @@ icon: "/assets.nosync/img/paintbrush.svg"
 contents:
   - title: "Figures for Doctoral Thesis"
     gallery:
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.svg"
-        full: "https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.jpg"
+      - full: "https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.jpg"
         alt: "Immune Checkpoint inhibitors"
-        caption: "Immune Checkpoint inhibitors"
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.svg"
-        full: "https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.jpg"
+        contain: true
+      - full: "https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.jpg"
         alt: "Tumor microenvironment"
-        caption: "Tumor microenvironment"
+        contain: true
 
   - title: "Animation of immune checkpoint inhibitors"
     description: |
@@ -31,17 +29,11 @@ contents:
       - "**PRBB Sustainability Group Logo** (left)"
       - "**Design Committee for <a href='https://www.iscb.org/scs2024/home' target='_blank'>Student Council Symposium 2024 (SCS)</a>** (center and right): Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in Montreal, Canada."
     gallery:
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/Sus_logo.jpg"
-        full: "https://justalilibit.github.io/assets.nosync/img/Sus_logo.jpg"
+      - full: "https://justalilibit.github.io/assets.nosync/img/Sus_logo.jpg"
         alt: "PRBB Sustainability Group Logo"
-        caption: "PRBB Sustainability Group Logo"
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig1.png"
-        full: "https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig1.png"
+      - full: "https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig1.png"
         alt: "SCS 2024 social media poster"
-        caption: "SCS 2024 social media poster"
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig2.jpg"
-        full: "https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig2.jpg"
+      - full: "https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig2.jpg"
         alt: "SCS 2024 conference poster"
-        caption: "SCS 2024 conference poster"
   # - title: "Title Page for the PhD Thesisof a friend"
   #   image: '<img src="https://justalilibit.github.io/assets.nosync/img/Jesus_Thesis.png" alt="HER2" style="width:300px;height:auto;">'

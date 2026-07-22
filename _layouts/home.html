@@ -148,15 +148,8 @@
                     {% for item in member %}
                       {% if item[0] != "title" and item[0] != "date" %}
                         {% if item[0] == "gallery" %}
-                          <div class="simple-gallery">
-                            {% for image in item[1] %}
-                              <img
-                                src="{{ image.thumb | default: image.full }}"
-                                alt="{{ image.alt | default: image.caption }}"
-                                class="simple-gallery-image"
-                              >
-                            {% endfor %}
-                            </div>
+                          {% assign gallery_items = item[1] %}
+                          {% include gallery.html items=gallery_items %}
                         {% elsif item[1].first %}
                           <ul>
                             {% for subitem in item[1] %}

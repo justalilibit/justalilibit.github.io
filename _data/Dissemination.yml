@@ -25,19 +25,11 @@ contents:
     date: Sep 24th 2021
 
     gallery:
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/Rin4min-2.jpg"
-        full: "https://justalilibit.github.io/assets.nosync/img/Rin4min.jpg"
+      - full: "https://justalilibit.github.io/assets.nosync/img/Rin4min.jpg"
         alt: "Rin4min Finals 2024"
-        caption: "Rin4min Finals 2024"
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/EuropResNight_2021-2.png"
-        full: "https://justalilibit.github.io/assets.nosync/img/EuropResNight_2021.png"
+      - full: "https://justalilibit.github.io/assets.nosync/img/EuropResNight_2021.png"
         alt: "European Researchers Night 2021"
-        caption: "European Researchers Night 2021"
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/eurResNight2024-2.jpg"
-        full: "https://justalilibit.github.io/assets.nosync/img/eurResNight2024_2.jpeg"
+      - full: "https://justalilibit.github.io/assets.nosync/img/eurResNight2024_2.jpeg"
         alt: "European Researchers Night 2024"
-        caption: "European Researchers Night 2024"
-      - thumb: "https://justalilibit.github.io/assets.nosync/img/OPEN_PRBB2024-2.png"
-        full: "https://justalilibit.github.io/assets.nosync/img/OPEN_PRBB2024.png"
+      - full: "https://justalilibit.github.io/assets.nosync/img/OPEN_PRBB2024.png"
         alt: "OPEN PRBB 2023"
-        caption: "OPEN PRBB 2023"
