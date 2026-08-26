@@ -25,15 +25,32 @@ document.addEventListener('DOMContentLoaded', function(){
     const skillsSearch = document.getElementById('skills-search');
 
     if (skillsSection && skillsSearch) {
-        const skillItems = Array.from(skillsSection.querySelectorAll('.item'));
+        const skillCategories = Array.from(
+            skillsSection.querySelectorAll('.item')
+        );
 
         skillsSearch.addEventListener('input', function() {
             const query = this.value.trim().toLowerCase();
 
-            skillItems.forEach(function(item) {
-                const text = item.textContent.toLowerCase();
-                const matches = text.includes(query);
-                item.style.display = matches ? '' : 'none';
+            skillCategories.forEach(function(category) {
+                const skills = Array.from(
+                    category.querySelectorAll('.subitem')
+                );
+
+                let matchingSkills = 0;
+
+                skills.forEach(function(skill) {
+                    const text = skill.textContent.toLowerCase();
+                    const matches = text.includes(query);
+
+                    skill.style.display = matches ? '' : 'none';
+
+                    if (matches) {
+                        matchingSkills++;
+                    }
+                });
+
+                category.style.display = matchingSkills > 0 ? '' : 'none';
             });
         });
     }
