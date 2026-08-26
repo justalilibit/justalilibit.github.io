@@ -38,27 +38,6 @@ document.addEventListener('DOMContentLoaded', function(){
         });
     }
 
-
-    document.querySelectorAll('.gallery').forEach(function(gallery) {
-        const items = Array.from(gallery.querySelectorAll('.gallery-trigger')).map(function(button) {
-            const img = button.querySelector('img');
-            return {
-                src: button.getAttribute('data-full') || img.getAttribute('src'),
-                alt: button.getAttribute('data-alt') || img.getAttribute('alt') || '',
-                caption: button.getAttribute('data-caption') || button.getAttribute('data-alt') || img.getAttribute('alt') || ''
-            };
-        });
-
-        if (!items.length) return;
-
-        gallery.querySelectorAll('.gallery-trigger').forEach(function(button, index) {
-            button.addEventListener('click', function() {
-                console.log('gallery click', index, button.getAttribute('data-full'));
-                openLightbox(items, index);
-            });
-        });
-    });
-
     document.querySelectorAll('.experience-entry').forEach(function(entry) {
         const toggle = entry.querySelector('.experience-toggle');
         const details = entry.querySelector('.experience-details');

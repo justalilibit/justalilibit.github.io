@@ -78,7 +78,7 @@ contents:
   - title: Communication & Writing
     description: 
       - Scientific Writing and Storytelling
-      - Public Speaking
+      - Medical & Technical Review
       - Illustration & Animation Software
       - Social Media Management
 
@@ -86,8 +86,8 @@ contents:
       <div class="icons-section">
         <!-- Affinity -->
         <div class="icon-container">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Icon_AffinityDesigner_DesignerPersona.svg" alt="Affinity">
-          <span class="icon-label">Affinity Designer</span>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_(App)_Logo.svg/960px-Affinity_(App)_Logo.svg.png?_=20260621122145" alt="Affinity">
+          <span class="icon-label">Affinity</span>
         </div>
 
         <!-- Moho -->
