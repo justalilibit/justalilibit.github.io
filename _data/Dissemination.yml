@@ -36,10 +36,10 @@ contents:
 
   - title: "Figures for Doctoral Thesis"
     gallery:
-      - full: "https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.jpg"
+      - full: "https://justalilibit.github.io/assets.nosync/img/Fig_1_ICI.svg"
         alt: "Immune Checkpoint inhibitors"
         natural: true
-      - full: "https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.jpg"
+      - full: "https://justalilibit.github.io/assets.nosync/img/Fig_3_TME.svg"
         alt: "Tumor microenvironment"
         natural: true
 
