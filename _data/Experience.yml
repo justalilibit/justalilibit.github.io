@@ -2,17 +2,26 @@ subject: Experiences
 listing-order: 1
 icon: "/assets.nosync/img/briefcase.svg"
 contents:
-  - title: Data Scientist and Project Management (PhD Researcher)
+  - title: Scientific Reviewer
+    role:  Medical Writer I, Syneos Health on behalf of Boehringer Ingelheim, Barcelona
+    description:
+      - "Therapeutic areas: oncology, respiratory and inflammation, cardio-reno-metabolic, eye health."
+      - "With great attention to detail, I review medical and promotional materials ensure they are accurate, and aligned with current research and clinical guidelines."
+      - "After three months I was asked to train new team members, and after six I became Lead of the German market within the Technical Review squad."
+      - "I am actively involved in rolling out AI applications that support the team's daily work."
+      - "I work closely with Medical, Regulatory and Marketing colleagues to ensure materials that are both scientifically sound and usable, and I manage content in Veeva Vault."
+    date: Since Jan 2026
+
+  - title: Data Scientist and Project Management
     role:  PhD Researcher at <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's</a> Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona
     description:
       - "My research focussed on response to immunotherapy in bladder cancer, integrating clinical and multi-omics data for biomarker discovery."
       - "I <strong>coordinated three projects</strong>, balancing data generation and analysis, publication, and presentations ensuring deadlines were met."
-      - "In quarterly meetings, I ensured the engagement of stakeholders and KOLs from international institutes, including clinicians, lab staff & bioinformaticians." 
       - "Handled seven big datasets, ensured data harmonization and quality control, and generated robust evidence."
       - "I showed strong team leading abilities by mentoring two junior scientists, both pursuing a PhD in Bioinformatics now."
-      - "I have proven strong scientific writing skills gained from conducting three manuscripts, resulting in two-first author publications in Nature Communication and Scientific Reports."
+      - "I have proven strong scientific writing skills gained from conducting three manuscripts, resulting in two-first author publications in Nature Communication and Scientific Reports and a preprint in Oncogenes."
       - "Presenting my results at five international conference and seven public events (in English & Spanish) proves my ability to shape data into engaging stories."
-    date: Nov. 2021 - Jul. 2025
+    date: Nov. 2021 - Aug. 2025
 
   - title: Proactive Learner and Adaptable Researcher
     role: "Visiting Researcher in the <a href=\"https://vhio.net/pf/computational-immunogenomics-group/\" target=\"_blank\">Computational Immunogenomics</a> and <a href=\"https://vhio.net/pf/cancer-computational-biology-group/\" target=\"_blank\">Cancer Computational Biology</a> Group at Vall d'Hebron Oncology Institute (VHIO), Barcelona"
