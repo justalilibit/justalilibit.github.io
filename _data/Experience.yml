@@ -12,7 +12,7 @@ contents:
       - "I work closely with Medical, Regulatory and Marketing colleagues to ensure materials that are both scientifically sound and usable, and I manage content in Veeva Vault."
     date: Since Jan 2026
 
-  - title: Data Scientist and Project Management
+  - title: Biomedcial Data Scientist
     role:  PhD Researcher at <a href="https://albagroup.upf.edu/" target="_blank">M. Mar Albà's</a> Evolutionary Genomics Group, Hospital del Mar Research Institute, Barcelona
     description:
       - "My research focussed on response to immunotherapy in bladder cancer, integrating clinical and multi-omics data for biomarker discovery."
@@ -46,7 +46,7 @@ contents:
   - title: Strategic Thinker and Cross-Functional Teamplayer
     role: Internship (M.Sc.) at Urban Planning and Environmental Health Department, ISGlobal, Barcelona
     description: 
-      - Applied statistical programming using R on one epidemiological dataset to analyze prenatal greenspace exposure and child health, employing causal inference methods to control for complex socio-economic and cultural confounding factors.
+      - Applied statistical programming using Python, bash and R on epidemiological data to analyze prenatal greenspace exposure and child health, employing causal inference methods to control for complex socio-economic and cultural confounding factors.
       - Authored, revised, and managed the submission process for a first-author manuscript, resulting in a peer-reviewed publication.
       - Cooperated as a key member of a multi-disciplinary team (involving members from Iran and 5 European countries) to conduct a comprehensive literature review.
     date: Sep. 2019 - Feb. 2020

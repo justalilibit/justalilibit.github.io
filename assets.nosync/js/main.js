@@ -21,6 +21,82 @@ document.addEventListener('DOMContentLoaded', function(){
         tocbox.append(tocItem);
     });
 
+    const skillsSection = document.querySelector('.subject.skills-section');
+    const skillsSearch = document.getElementById('skills-search');
+
+    if (skillsSection && skillsSearch) {
+        const skillCategories = Array.from(
+            skillsSection.querySelectorAll('.item')
+        );
+
+        skillsSearch.addEventListener('input', function() {
+            const query = this.value.trim().toLowerCase();
+
+            skillCategories.forEach(function(category) {
+                const skills = Array.from(
+                    category.querySelectorAll('.subitem')
+                );
+
+                let matchingSkills = 0;
+
+                skills.forEach(function(skill) {
+                    const text = skill.textContent.toLowerCase();
+                    const matches = text.includes(query);
+
+                    skill.style.display = matches ? '' : 'none';
+
+                    if (matches) {
+                        matchingSkills++;
+                    }
+                });
+
+                category.style.display = matchingSkills > 0 ? '' : 'none';
+            });
+        });
+    }
+
+    document.querySelectorAll('.experience-entry').forEach(function(entry) {
+        const toggle = entry.querySelector('.experience-toggle');
+        const details = entry.querySelector('.experience-details');
+
+        if (!toggle || !details) return;
+
+        function collapseDetails() {
+            details.classList.remove('is-expanded');
+            details.classList.add('is-collapsed');
+            details.style.maxHeight = '0px';
+            details.setAttribute('aria-hidden', 'true');
+            toggle.setAttribute('aria-expanded', 'false');
+            toggle.textContent = 'Expand';
+        }
+
+        function expandDetails() {
+            details.classList.remove('is-collapsed');
+            details.classList.add('is-expanded');
+            details.style.maxHeight = details.scrollHeight + 'px';
+            details.setAttribute('aria-hidden', 'false');
+            toggle.setAttribute('aria-expanded', 'true');
+            toggle.textContent = 'Hide';
+        }
+
+        collapseDetails();
+
+        toggle.addEventListener('click', function() {
+            const expanded = toggle.getAttribute('aria-expanded') === 'true';
+            if (expanded) {
+                collapseDetails();
+            } else {
+                expandDetails();
+            }
+        });
+
+        window.addEventListener('resize', function() {
+            if (details.classList.contains('is-expanded')) {
+                details.style.maxHeight = details.scrollHeight + 'px';
+            }
+        });
+    });
+
     var contents = document.querySelectorAll('.subject, .item');
 
     setInterval(function(){

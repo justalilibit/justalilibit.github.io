@@ -1,0 +1,12 @@
+
+<div class="simple-gallery">
+  {% for item in include.items %}
+    <img
+      src="{{ item.full | default: item.thumb }}"
+      alt="{{ item.alt | default: item.caption }}"
+      class="simple-gallery-image{% if item.contain %} simple-gallery-image-contain{% endif %}"
+      loading="lazy"
+    >
+  {% endfor %}
+</div>
+

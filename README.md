@@ -1,6 +1,6 @@
 # Lilian Marie Boll - PhD in Bioinformatics | Portfolio
 
-This repository contains the source code for my [personal portfolio website](https://justalilibit.github.io/) showcasing my work and experience as a bioinformatician. The website is built using Jekyll and is based on the  template by Yanko.
+This repository contains the source code for my [personal portfolio website](https://justalilibit.github.io/) showcasing my work and experience as a researcher, bioinformatician and medical writer. The website is built using Jekyll and is based on the  template by Yanko.
 
 ## Overview
 

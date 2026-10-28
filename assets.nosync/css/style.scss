@@ -233,6 +233,202 @@ a { text-decoration:none; }
 
     .item { position: relative; }
 
+    .experience-entry {
+        margin-top: 1.25rem;
+    }
+
+    .experience-role {
+        margin: 0.35rem 0 0.5rem;
+        font-size: 0.95rem;
+        line-height: 1.5;
+        color: var(--theme4-dark);
+    }
+
+    .experience-details {
+        overflow: hidden;
+        max-height: 0;
+        opacity: 0;
+        margin-top: 0;
+        transition: max-height 0.3s ease, opacity 0.3s ease, margin-top 0.3s ease;
+    }
+
+    .experience-details.is-expanded {
+        opacity: 1;
+        margin-top: 0.5rem;
+    }
+
+    .experience-description-list {
+        margin: 0;
+        padding-left: 1.25rem;
+    }
+
+    .experience-subitem {
+        list-style: disc;
+        margin-top: 0.4rem;
+        line-height: 1.45;
+    }
+
+    .experience-toggle {
+        margin-top: 0.5rem;
+        padding: 0;
+        border: none;
+        background: none;
+        box-shadow: none;
+        appearance: none;
+        color: var(--theme4-dark);
+        font: inherit;
+        font-size: 0.85rem;
+        font-weight: 400;
+        line-height: 1.4;
+        text-decoration: none;
+        cursor: pointer;
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        transition: color 0.2s ease;
+    }
+
+    .experience-toggle::before {
+        content: '▸';
+        display: inline-block;
+        font-size: 0.95rem;
+        line-height: 1;
+        transition: transform 0.2s ease;
+    }
+
+    .experience-toggle:hover,
+    .experience-toggle:focus-visible {
+        color: var(--theme3-dark);
+        text-decoration: underline;
+    }
+
+    .experience-toggle[aria-expanded="true"]::before {
+        content: '▾';
+    }
+
+   .simple-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 12px;
+    margin-top: 12px;
+    }
+
+
+    .simple-gallery-image {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 8px;
+    }
+
+    .simple-gallery-image--contain {
+    object-fit: contain;
+    }
+
+    .skills-explorer {
+        margin: 1rem 0 1.5rem;
+    }
+
+    @media (max-width: 768px) {
+        .experience-toggle {
+            width: 100%;
+            text-align: center;
+        }
+
+        .experience-role {
+            font-size: 0.9rem;
+        }
+
+        .icons-section {
+            justify-content: center;
+            gap: 0.85rem;
+        }
+
+        .icon-container {
+            flex: 1 1 90px;
+            max-width: 100px;
+        }
+
+        .icon-container img {
+            width: 56px;
+            height: 56px;
+        }
+    }
+
+    .skills-explorer__label {
+        display: block;
+        margin-bottom: 0.5rem;
+        font-weight: 600;
+        color: var(--theme4-dark);
+    }
+
+    .skills-explorer__input {
+        width: 100%;
+        max-width: 420px;
+        padding: 0.7rem 0.95rem;
+        border: 1px solid var(--theme4-medium);
+        border-radius: 999px;
+        font: inherit;
+        background: white;
+        color: var(--font-dark);
+        box-sizing: border-box;
+    }
+
+    .skills-explorer__input:focus {
+        outline: 2px solid var(--theme4-medium);
+        outline-offset: 2px;
+    }
+
+    .icons-section {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 0.5rem;
+        margin-top: 1rem;
+    }
+
+    .icon-container {
+        flex: 1 1 100px;
+        max-width: 120px;
+        min-width: 90px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 0.5rem;
+        padding: 0.5rem 0.25rem;
+    }
+
+    .icon-container img {
+        width: 64px;
+        height: 64px;
+        object-fit: contain;
+        transition: transform 0.3s ease;
+    }
+
+    .icon-container:hover img {
+        transform: scale(1.1);
+    }
+
+    .icon-label {
+        display: block;
+        min-height: 1.2em;
+        margin-top: 0.25rem;
+        font-size: 0.85rem;
+        color: var(--font-dark);
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(4px);
+        transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+
+    .icon-container:hover .icon-label {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+
     .item:nth-child(1) { margin-top: -0.5rem; }
 
     .content-header + ul { margin-top: -1rem; }

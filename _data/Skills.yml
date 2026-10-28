@@ -8,6 +8,7 @@ contents:
       - Clinical and molecular data interpretation
       - Research data management, governance & FAIR data practices
       - Open science & reproducibility in biomedical research
+      - Content & Data management on platforms as Veeva Vault
 
   - title: Data and Tech
     description: 
@@ -16,30 +17,6 @@ contents:
       - Database design, curation & integration
 
     images: |
-      <style>
-        .icon-container {
-          display: inline-block;
-          text-align: center;
-          margin: 10px;
-        }
-        .icon-container img {
-          width: 60px;
-          height: auto;
-          transition: transform 0.3s ease;
-        }
-        .icon-container:hover img {
-          transform: scale(1.1);
-        }
-        .icon-label {
-          display: none;
-          margin-top: 5px;
-          font-size: 14px;
-          color: #333;
-        }
-        .icon-container:hover .icon-label {
-          display: block;
-        }
-      </style>
 
       <div class="icons-section">
         <!-- Python -->
@@ -78,6 +55,12 @@ contents:
           <span class="icon-label">HTML5</span>
         </div>
 
+        <!-- Veeva -->
+        <div class="icon-container">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/veevalidate/veevalidate-original.svg" alt="Veeva">
+          <span class="icon-label">Veeva Vault</span>
+        </div>
+
         <!-- MySQL -->
         <div class="icon-container">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL">
@@ -87,7 +70,7 @@ contents:
 
   - title: Project Management
     description: 
-      - Critical thinking & solution-oriented mindset
+      - Solution-oriented mindset
       - Cross-functional collaboration
       - Mentoring & team leadership
       - Efficient time and resource management
@@ -95,7 +78,7 @@ contents:
   - title: Communication & Writing
     description: 
       - Scientific Writing and Storytelling
-      - Public Speaking
+      - Medical & Technical Review
       - Illustration & Animation Software
       - Social Media Management
 
@@ -103,8 +86,8 @@ contents:
       <div class="icons-section">
         <!-- Affinity -->
         <div class="icon-container">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Icon_AffinityDesigner_DesignerPersona.svg" alt="Affinity">
-          <span class="icon-label">Affinity Designer</span>
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Affinity_(App)_Logo.svg/960px-Affinity_(App)_Logo.svg.png?_=20260621122145" alt="Affinity">
+          <span class="icon-label">Affinity</span>
         </div>
 
         <!-- Moho -->
