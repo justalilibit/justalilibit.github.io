@@ -334,6 +334,12 @@ a { text-decoration:none; }
     object-fit: contain;
     }
 
+    /* option keep the original proportions of img */
+    .simple-gallery-image--natural {
+    aspect-ratio: auto;
+    height: auto;
+    }
+
     .skills-explorer {
         margin: 1rem 0 1.5rem;
     }

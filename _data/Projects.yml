@@ -1,8 +1,31 @@
 subject: Projects
-listing-order: 
+listing-order: 3
 icon: "/assets.nosync/img/paintbrush.svg"
 contents:
 
-  - title: PhD in Bioinformatics
-    role: Universidad Pompeu Fabra, Barcelona, Spain
-    description:
+  - title: "Animation of immune checkpoint inhibitors"
+    description: |
+      <div style="display:flex; gap:20px; flex-wrap:wrap;">
+        <video style="flex:1; min-width:300px; width:100%; height:auto;" controls>
+          <source src="https://justalilibit.github.io/assets.nosync/vid/ici_untreated_web.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <video style="flex:1; min-width:300px; width:100%; height:auto;" controls>
+          <source src="https://justalilibit.github.io/assets.nosync/vid/ici_Tcell_web.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </div>
+
+  - title: "Graphic Design Projects"
+    description: 
+      - "**PRBB Sustainability Group Logo** (left)"
+      - "**Design Committee for <a href='https://www.iscb.org/scs2024/home' target='_blank'>Student Council Symposium 2024 (SCS)</a>** (center and right): Designing the poster, social media posts and merch for the 20th SCS meeting 2024 in Montreal, Canada."
+    gallery:
+      - full: "https://justalilibit.github.io/assets.nosync/img/Sus_logo.jpg"
+        alt: "PRBB Sustainability Group Logo"
+      - full: "https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig1.png"
+        alt: "SCS 2024 social media poster"
+      - full: "https://justalilibit.github.io/assets.nosync/img/iscb_poster_ig2.jpg"
+        alt: "SCS 2024 conference poster"
+  # - title: "Title Page for the PhD Thesisof a friend"
+  #   image: '<img src="https://justalilibit.github.io/assets.nosync/img/Jesus_Thesis.png" alt="HER2" style="width:300px;height:auto;">'
