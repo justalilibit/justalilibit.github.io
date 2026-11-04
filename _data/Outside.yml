@@ -1,4 +1,4 @@
-subject: Besides?
+subject: Beyond Science
 listing-order: 9
 icon: "/assets.nosync/img/paintbrush.svg"
 contents:
@@ -23,5 +23,5 @@ contents:
         alt: "Ski 2025"
       - full: "https://justalilibit.github.io/assets.nosync/img/Ski_2.jpg"
         alt: "Mountain skiing 2025"
-      - full: "https://justalilibit.github.io/assets.nosync/img/sail.jpeg"
-        alt: "Catamaran Baltic Sea"
+      # - full: "https://justalilibit.github.io/assets.nosync/img/sail.jpeg"
+      #   alt: "Catamaran Baltic Sea"
