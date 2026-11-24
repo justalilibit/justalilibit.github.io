@@ -2,17 +2,6 @@ subject: Beyond Science
 listing-order: 9
 icon: "/assets.nosync/img/paintbrush.svg"
 contents:
-  - title: "Besides being a scientist, I also enjoy drawing and designing. Here are some examples of my work"
-    gallery:
-        - full: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
-          alt: "Boat watercolor"
-        - full: "https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg"
-          alt: "Boat Amaya"
-        - full: "https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg"
-          alt: "Acrylic pants design"
-        - full: "https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg"
-          alt: "Wood board artwork"
-
   - title: "In my free time, you'll find me outdoors, chasing a bit of adrenaline and balance from Barcelona's city buzz."
     gallery:
       - full: "https://justalilibit.github.io/assets.nosync/img/chorro.jpg"
@@ -25,3 +14,14 @@ contents:
         alt: "Mountain skiing 2025"
       # - full: "https://justalilibit.github.io/assets.nosync/img/sail.jpeg"
       #   alt: "Catamaran Baltic Sea"
+
+  - title: "I probably have to manyy hobbies, but crafting and painting to express myself are always part of my life."
+    gallery:
+        - full: "https://justalilibit.github.io/assets.nosync/img/Boat_aquarell.jpeg"
+          alt: "Boat watercolor"
+        - full: "https://justalilibit.github.io/assets.nosync/img/boat_aquarell_2.jpeg"
+          alt: "Boat Amaya"
+        - full: "https://justalilibit.github.io/assets.nosync/img/pants_acryl.jpeg"
+          alt: "Acrylic pants design"
+        - full: "https://justalilibit.github.io/assets.nosync/img/holzbrett.jpg"
+          alt: "Wood board artwork"
